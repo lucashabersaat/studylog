@@ -8,6 +8,8 @@ Summary of what I learned, studied and picked up in the course of my life. Shall
 - [emberjs](emberjs.md)
 - [php](php.md)
 - [sql](sql.md)
+- [spring](spring.md)
+- [rest api](rest_api.md)
 
 
 ## overview
@@ -46,6 +48,7 @@ Overview of what i have learned so far and where.
 - only touched upon: `coffeescript` `haml`
 
 ### puzzle _wip_
+
 
 ## projects
 ### cryptopus
