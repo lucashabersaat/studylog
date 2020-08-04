@@ -11,6 +11,8 @@ Summary of what I learned, studied and picked up in the course of my life. Shall
 - [spring](spring.md)
 - [rest api](rest_api.md)
 
+### linux
+- [bash](bash.md)
 
 ## overview
 Overview of what i have learned so far and where.
