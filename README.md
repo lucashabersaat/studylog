@@ -37,6 +37,13 @@ Overview of what i have learned so far and where.
 
 ### puzzle _wip_
 
+## projects
+### cryptopus
+_wip_
+### gässli
+_wip_
+### wotschit
+_wip_
 
 ## log
 Beginning from 4.8.2020, log of new learned stuff.
