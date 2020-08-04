@@ -30,11 +30,12 @@ Overview of what i have learned so far and where.
 ### puzzle cryptopus
 - programming language: `ruby`
 - framworks: `ruby on rails` `ember.js`
+- testing: `rspec` `capybara`
 - version control: `git`
 - further strengthened: `html` `css` `js` `sql`
-- only touched upon: `coffeescript`
+- only touched upon: `coffeescript` `haml`
 
-### puzzle wip
+### puzzle _wip_
 
 
 ## log
