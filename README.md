@@ -19,8 +19,18 @@ Overview of what i have learned so far and where.
 - intro to opengl
 
 ### computer science bachelor
+- programming languages: `java` `c` `c++` `python`
+- math: discrete math, linear algebra, calculus, statistics
 - parallel programming
+- theoretical informatics
 - algorithms & data structures
+- visual computing
+- machine learning
+- _wip ..._
+
+### computer science master
+- computer graphics
+- advanced machine learning
 - _wip ..._
 
 ### gässli & wotschit
