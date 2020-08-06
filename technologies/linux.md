@@ -10,7 +10,7 @@ To add directories permanently to the path variable, add the directory to `/etc/
 
 Path Var might look like: `PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"`
 
-## Permissions
+## permissions
 
 For files, directories permissions can be set using the command `$ chmod ...`
 

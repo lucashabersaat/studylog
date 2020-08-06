@@ -12,7 +12,10 @@ Summary of what I learned, studied and picked up in the course of my life. Shall
 - [rest api](rest_api.md)
 
 ### linux
-- [bash](bash.md)
+- [linux](linux.md)
+
+### containers
+- [docker](docker.md)
 
 ## overview
 Overview of what i have learned so far and where.
@@ -62,3 +65,4 @@ _wip_
 
 ## log
 Beginning from 4.8.2020, log of new learned stuff.
+- August 2020: learning java spring
