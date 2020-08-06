@@ -2,20 +2,34 @@
 Summary of what I learned, studied and picked up in the course of my life. Shall function as log, journal and index of my knowledge in computer science.
 
 ## index
-#### webstack
-- [ruby](ruby.md)
-- [ruby on rails](ruby_on_rails.md)
-- [emberjs](emberjs.md)
-- [php](php.md)
-- [sql](sql.md)
-- [spring](spring.md)
-- [rest api](rest_api.md)
 
-### linux
+### webstack
+- programming languages
+  - [html](html.md)
+  - [css](css.md)
+  - [javascript](javascript.md)
+  - [typescript](typescript.md) (new)
+  - [php](php.md)
+  - [ruby](technologies/ruby.md)
+  - [sql](sql.md)
+- frameworks
+  - [ruby on rails](ruby_on_rails.md)
+  - [emberjs](emberjs.md)
+  - [spring](spring.md) (new)
+  - [angular](angular.md) (new)
+- principles
+  - [rest api](rest_api.md) (new)
+
+
+### linux & ?
 - [linux](linux.md)
+- [i3](i3.md)
+- [vim](technologies/vim.md)
 
-### containers
+
+### containering
 - [docker](docker.md)
+
 
 ## overview
 Overview of what i have learned so far and where.
@@ -44,15 +58,14 @@ Overview of what i have learned so far and where.
 - independent webdevelopment: `php` `html` `css` `js` `sql`
 - _wip_
 
-### puzzle cryptopus
+### puzzle
 - programming language: `ruby`
 - framworks: `ruby on rails` `ember.js`
 - testing: `rspec` `capybara`
 - version control: `git`
 - further strengthened: `html` `css` `js` `sql`
 - only touched upon: `coffeescript` `haml`
-
-### puzzle _wip_
+- currently learning: `spring` `angular` `docker`
 
 
 ## projects
