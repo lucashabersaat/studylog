@@ -42,12 +42,25 @@ Overview of what i have learned so far and where.
 ### computer science bachelor
 - programming languages: `java` `c` `c++` `python`
 - math: discrete math, linear algebra, calculus, statistics
+- algorithms & data structures & probability
+- design of digital circuits
 - parallel programming
+- computer networks
+- data modeling and databases `sql`
+- formal methods and functional programming `haskell`
 - theoretical informatics
-- algorithms & data structures
+
+- computer systems (_more details_: os, distributed systems)
+- rigorous software engineering
+- intro machine learning
 - visual computing
 - machine learning
-- _wip ..._
+- algorithms, probability & computing
+- information retrieval
+- autonomous mobile robots
+- bachelor's thesis: inverse terrain generation
+    - geologically physical simulation
+    - gradient based optimization
 
 ### computer science master
 - computer graphics
@@ -75,6 +88,7 @@ _wip_
 _wip_
 ### wotschit
 _wip_
+### inverse terrain simulation
 
 ## log
 Beginning from 4.8.2020, log of new learned stuff.
