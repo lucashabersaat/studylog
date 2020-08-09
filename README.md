@@ -20,6 +20,16 @@ Summary of what I learned, studied and picked up in the course of my life. Shall
 - principles
   - [rest api](rest_api.md) (new)
 
+### general programming
+- c
+- c++
+- c#
+- java
+- **python**
+
+### machine learning frameworks
+- tensorflow
+- pytorch
 
 ### linux & ?
 - [linux](linux.md)
