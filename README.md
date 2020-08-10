@@ -5,40 +5,51 @@ Summary of what I learned, studied and picked up in the course of my life. Shall
 
 ### webstack
 - programming languages
-  - [html](html.md)
-  - [css](css.md)
-  - [javascript](javascript.md)
-  - [typescript](typescript.md) (new)
-  - [php](php.md)
+  - [html](technologies/html.md)
+  - [css](technologies/css.md)
+  - [javascript](technologies/javascript.md)
+  - [typescript](technologies/typescript.md) (new)
+  - [java](technologies/java.md)
+  - [php](technologies/php.md)
   - [ruby](technologies/ruby.md)
-  - [sql](sql.md)
+  - [sql](technologies/sql.md)
 - frameworks
-  - [ruby on rails](ruby_on_rails.md)
-  - [emberjs](emberjs.md)
-  - [spring](spring.md) (new)
-  - [angular](angular.md) (new)
-- principles
-  - [rest api](rest_api.md) (new)
+  - [ruby on rails](technologies/ruby_on_rails.md)
+  - [emberjs](technologies/emberjs.md)
+  - [spring](technologies/spring.md) (new)
+  - [angular](technologies/angular.md) (new)
 
 ### general programming
 - c
 - c++
 - c#
 - java
+- ruby
 - **python**
+
+### principles
+- [rest api](technologies/rest_api.md) (new)
+- devops (new)
 
 ### machine learning frameworks
 - tensorflow
 - pytorch
 
 ### linux & ?
-- [linux](linux.md)
+- [linux](technologies/linux.md)
 - [i3](i3.md)
-- [vim](technologies/vim.md)
 
 
 ### containering
 - [docker](docker.md)
+- [openshift](openshift.md)
+- jenkins
+
+### unsorted
+- [vim](technologies/vim.md)
+- atom
+- intellij
+- [gradle](technologies/gradle.md)
 
 
 ## overview
@@ -88,18 +99,17 @@ Overview of what i have learned so far and where.
 - version control: `git`
 - further strengthened: `html` `css` `js` `sql`
 - only touched upon: `coffeescript` `haml`
-- currently learning: `spring` `angular` `docker`
+- currently learning: `spring` `angular` `docker` `jenkins`
 
 
 ## projects
-### cryptopus
-_wip_
-### gässli
-_wip_
-### wotschit
-_wip_
-### inverse terrain simulation
+
+- gässli
+- wotschit
+- inverse terrain simulation
+- cryptopus
+- [pfeedback](projects/pfeedback.md)
 
 ## log
 Beginning from 4.8.2020, log of new learned stuff.
-- August 2020: learning java spring
+- August 2020: learning java spring, angular, docker, jenkins

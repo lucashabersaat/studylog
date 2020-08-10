@@ -1,0 +1,3 @@
+# questions
+
+- [ ] difference unix/linux/...

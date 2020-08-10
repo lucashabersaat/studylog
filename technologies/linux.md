@@ -20,8 +20,10 @@ Might give: `drwxr-xr-x 2 pete penguins 4096 Dec 1 11:45`
 First part gives type, next rights for user, then for groups and lastly for other users.
 
 `d | rwx | r-x | r-x`
-
 - r: readable
 - w: writable
 - x: executable
 - -: empty
+
+
+## pipes

@@ -16,6 +16,7 @@ Currently: [https://angular.io/tutorial/toh-pt5](https://angular.io/tutorial/toh
 ## modules
 
 _wip_
+???
 
 ## components
 
@@ -52,6 +53,9 @@ The root component app.component is in /src/app and is the top hierarchy compone
 ### generation commands
 - component: `ng generate component [component_name]`
 - component: `ng generate service [service_name]`
+- component: `ng generate module [module_name]`
+  - `--flat` put in _src/app_ instead of own folder
+  - `--module=app` register in imports of AppModule
 
 ## interpolation binding
 **Example**
@@ -60,3 +64,21 @@ The root component app.component is in /src/app and is the top hierarchy compone
 - event binding: `<li *ngFor="let hero of heroes" (click)="onSelect(hero)">`
 - class binding: `<li *ngFor="let hero of heroes" [class.selected]="hero === selectedHero">`
 - property binding: `<app-some-component [property_name]="some_property"></app-some-component>` (one-way binding)
+
+## routing
+
+- using a routing module that the app module imports (?)
+- define all routes there
+- `ActivatedRoute` from `@angular/router`: holds information about this route
+-
+
+## built in services
+
+- `location` for interactign with the browser
+
+## http client
+
+To get data from a server.
+_wip_
+- Obervables<T>
+-
