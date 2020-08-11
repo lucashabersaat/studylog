@@ -3,6 +3,8 @@ Summary of what I learned, studied and picked up in the course of my life. Shall
 
 ## index
 
+Links to all the pages ordered.
+
 ### webstack
 - programming languages
   - [html](technologies/html.md)
@@ -42,16 +44,17 @@ Summary of what I learned, studied and picked up in the course of my life. Shall
 - [i3](i3.md)
 
 
-### containering
-- [docker](docker.md)
-- [openshift](openshift.md)
-- jenkins
+### containers
+- [docker](docker.md) (new)
+- [openshift](openshift.md) (new)
+- jenkins (new)
 
 ### unsorted
 - [vim](technologies/vim.md)
 - atom
 - intellij
 - [gradle](technologies/gradle.md)
+- git
 
 
 ## overview
