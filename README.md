@@ -18,6 +18,8 @@ Summary of what I learned, studied and picked up in the course of my life. Shall
   - [emberjs](technologies/emberjs.md)
   - [spring](technologies/spring.md) (new)
   - [angular](technologies/angular.md) (new)
+  - bootstrap
+  - [material](material.md)
 
 ### general programming
 - c
