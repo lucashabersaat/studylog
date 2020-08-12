@@ -115,6 +115,7 @@ Overview of what i have learned so far and where.
 - inverse terrain simulation
 - cryptopus
 - [pfeedback](projects/pfeedback.md)
+- [server_base](projects/server_base.md)
 
 ## log
 Beginning from 4.8.2020, log of new learned stuff.
