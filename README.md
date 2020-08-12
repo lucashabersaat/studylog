@@ -42,6 +42,7 @@ Links to all the pages ordered.
 ### linux & ?
 - [linux](technologies/linux.md)
 - [i3](i3.md)
+- [ssh](ssh.md)
 
 
 ### containers

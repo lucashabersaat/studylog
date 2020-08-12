@@ -2,6 +2,12 @@
 
 - A nice general guide: [https://linuxjourney.com/](https://linuxjourney.com/)
 
+## some basic
+
+- show os version: `$ lsb_release -a`
+- show/concatenate `$ cat [file_name]`
+-
+
 ## PATH variable
 The path variable are the directories the shell looks for the commands.
 - [https://linuxize.com/post/how-to-add-directory-to-path-in-linux/](https://linuxize.com/post/how-to-add-directory-to-path-in-linux/)
@@ -27,3 +33,11 @@ First part gives type, next rights for user, then for groups and lastly for othe
 
 
 ## pipes
+
+## ports
+
+Ports of machine are the doors to the world. When a request arrives, the port determines which application should handle the request.
+
+- Overview: [https://www.thomas-krenn.com/de/wiki/Linux_Netzwerk_Analyse_mit_netstat](https://www.thomas-krenn.com/de/wiki/Linux_Netzwerk_Analyse_mit_netstat)
+
+Use the command `netstat` to list ports. (eg.`sudo netstat -tulpn`)

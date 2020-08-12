@@ -39,3 +39,8 @@ To apply the config:
 Go to [Grafana](https://grafana.puzzle.ch/d/85a562078cdf77779eaa1add43ccec1e/k8s-compute-resources-namespace?orgId=1&refresh=10s&var-datasource=prometheus-k8s-cloudscale&var-namespace=pitc-pfeedback-test) to check the resources usage.
 
 ## questions
+
+- how to generate a new component, such that it correctly generates stuff in the right subfolders?
+-  where are the tests? do I need to write tests?
+- security enabled doesn't work
+- how to test external/public paths?
