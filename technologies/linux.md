@@ -2,7 +2,26 @@
 
 - A nice general guide: [https://linuxjourney.com/](https://linuxjourney.com/)
 
-## some basic
+
+## background
+
+The Linux kernel, by Linus Torvalds, is a unified kernel.
+
+Linux system is divided into three main parts:
+- Hardware
+- Linux kernel: core of a OS, manages hardware and how to interact with it
+- User space
+
+### distributions:
+- Debian: stable
+- RHEL: enterprise
+- Ubuntu: personal, based on Debian
+- Fedora: cheap red hat
+- Linux Mint: light ubuntu
+- Gentoo: for pros
+- Arch: complete community, dirty hands
+
+## some basic commands
 
 - show os version: `$ lsb_release -a`
 - show/concatenate `$ cat [file_name]`
