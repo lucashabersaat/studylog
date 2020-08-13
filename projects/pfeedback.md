@@ -26,6 +26,9 @@
 └── ...
 ```
 
+- to test external paths, send a invitation to an external and check the log of the backend for the url
+
+
 ## openshift
 
 In the openshift folder are all the `.yml` that configure the containers.
@@ -39,8 +42,13 @@ To apply the config:
 Go to [Grafana](https://grafana.puzzle.ch/d/85a562078cdf77779eaa1add43ccec1e/k8s-compute-resources-namespace?orgId=1&refresh=10s&var-datasource=prometheus-k8s-cloudscale&var-namespace=pitc-pfeedback-test) to check the resources usage.
 
 ## questions
-
 - how to generate a new component, such that it correctly generates stuff in the right subfolders?
 -  where are the tests? do I need to write tests?
-- security enabled doesn't work
-- how to test external/public paths?
+- security enabled doesn't work?
+- angular persistend services -> unsubscribe component from service
+
+
+
+## debug
+
+- `$ ng.probe($$('app-new-pfeedback')[0]).componentInstance` life debugging of a component
