@@ -4,4 +4,4 @@
 
 ## continuous delivery
 
- ## continuous deployment
+## continuous deployment

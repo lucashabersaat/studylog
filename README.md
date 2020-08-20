@@ -21,7 +21,7 @@ Links to all the pages ordered.
   - [spring](technologies/spring.md) (new)
   - [angular](technologies/angular.md) (new)
   - bootstrap
-  - [material](material.md)
+  - [material](material.md) (new)
 
 ### general programming
 - c
@@ -76,7 +76,6 @@ Overview of what i have learned so far and where.
 - data modeling and databases `sql`
 - formal methods and functional programming `haskell`
 - theoretical informatics
-
 - computer systems (_more details_: os, distributed systems)
 - rigorous software engineering
 - intro machine learning

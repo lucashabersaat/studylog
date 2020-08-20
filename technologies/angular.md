@@ -81,4 +81,8 @@ The root component app.component is in /src/app and is the top hierarchy compone
 To get data from a server.
 _wip_
 - Obervables<T>
--
+
+
+## styling
+
+Styling can be done easily using `ng-flex`.
