@@ -12,5 +12,7 @@ to start the rails server and open it outside:
 - `cd` to the rails project
 - `$ rails s --binding=0.0.0.0`
 
+## screen
+
 ## ToDo: deploy with jenkins and docker
 - Docker [https://docs.docker.com/compose/rails/](https://docs.docker.com/compose/rails/)
