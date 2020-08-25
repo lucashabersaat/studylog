@@ -17,13 +17,17 @@ To apply the config:
 ### metrics
 Go to [Grafana](https://grafana.puzzle.ch/d/85a562078cdf77779eaa1add43ccec1e/k8s-compute-resources-namespace?orgId=1&refresh=10s&var-datasource=prometheus-k8s-cloudscale&var-namespace=pitc-pfeedback-test) to check the resources usage.
 
+## database changes
+Using liquibase database changes are tracked. Needs to be installed?
+
 
 ## questions
 - how to generate a new component, such that it correctly generates stuff in the right subfolders?
 -  where are the tests? do I need to write tests?
 - security enabled doesn't work?
 - angular persistend services -> unsubscribe component from service
-
+- integration tests locally?
+- TSlint?
 
 ## debug
 - `$ ng.probe($$('app-new-pfeedback')[0]).componentInstance` life debugging of a component
