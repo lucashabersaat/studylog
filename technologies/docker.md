@@ -10,7 +10,7 @@ Docker is a tool that allows to easily deploy an application in a container. Key
 - Tutorial: [https://docker-curriculum.com/](https://docker-curriculum.com/)
 - Getting Started: https://docs.docker.com/get-started/
 - DockerHub: [https://hub.docker.com/](https://hub.docker.com/)
-
+- Video Tutorial: [https://www.youtube.com/watch?v=gAkwW2tuIqE](https://www.youtube.com/watch?v=gAkwW2tuIqE)
 
 ## containers
 
