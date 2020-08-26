@@ -35,7 +35,7 @@ It has access to it corresponding component.
 
 ## overview
 
-![Angular Overview](/resources/angular_overview.png)
+![Angular Overview](/images/angular_overview.png)
 
 - Component and template define an angular view.
 - Depedency injection provides services to a component.
