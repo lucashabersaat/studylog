@@ -5,6 +5,23 @@ Summary of what I learned, studied and picked up in the course of my life. Shall
 
 Links to all the pages ordered.
 
+### programming languages
+- c
+- c++
+- c#
+- java
+- **python**
+- [php](technologies/php.md)
+- [ruby](technologies/ruby.md)
+- [javascript](technologies/javascript.md)
+- [typescript](technologies/typescript.md) (new)
+- [sql](technologies/sql.md)
+- haskell
+
+### mark-up languages
+- [html](technologies/html.md)
+- markdown
+
 ### webstack
 - programming languages
   - [html](technologies/html.md)
@@ -23,17 +40,10 @@ Links to all the pages ordered.
   - bootstrap
   - [material](material.md) (new)
 
-### general programming
-- c
-- c++
-- c#
-- java
-- ruby
-- **python**
-
 ### principles
 - [rest api](technologies/rest_api.md) (new)
 - devops (new)
+- uml
 
 ### machine learning frameworks
 - tensorflow
