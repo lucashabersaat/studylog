@@ -20,14 +20,15 @@ Go to [Grafana](https://grafana.puzzle.ch/d/85a562078cdf77779eaa1add43ccec1e/k8s
 ## database changes
 Using liquibase database changes are tracked. Needs to be installed?
 
+## tests
+- TSLint: `$ npm run lint`
+- itnegration tests: -> run config
 
 ## questions
 - how to generate a new component, such that it correctly generates stuff in the right subfolders?
 -  where are the tests? do I need to write tests?
 - security enabled doesn't work?
 - angular persistend services -> unsubscribe component from service
-- integration tests locally?
-- TSlint?
 
 ## debug
 - `$ ng.probe($$('app-new-pfeedback')[0]).componentInstance` life debugging of a component
