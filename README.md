@@ -66,6 +66,7 @@ Links to all the pages ordered.
 - intellij
 - [gradle](technologies/gradle.md)
 - git
+- [lightning](technologies/lightning.md) (new)
 
 
 ## overview
@@ -125,7 +126,6 @@ Overview of what i have learned so far and where.
 - cryptopus
 - [pfeedback](projects/pfeedback.md)
 - [server_base](projects/server_base.md)
-- [questhub]()
 
 ## log
 Beginning from 4.8.2020, log of new learned stuff.
