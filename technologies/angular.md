@@ -86,3 +86,11 @@ _wip_
 ## styling
 
 Styling can be done easily using `ng-flex`.
+
+## ngFlex
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+## observables
+https://rxmarbles.com/#interval
+
+- Angular Guide[https://angular.io/guide/observables](https://angular.io/guide/observables)
