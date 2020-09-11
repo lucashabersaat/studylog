@@ -40,6 +40,7 @@ Links to all the pages ordered.
   - bootstrap
   - [material](material.md) (new)
   - [quarkus](technilogies/quarkus.md) (new)
+  - [django](technologies/django.md)
 
 ### principles
 - [rest api](technologies/rest_api.md) (new)

@@ -12,6 +12,7 @@ Django is a normal python package and can be installed as such.
 
 ## why it is better than rails
 - migrations are entirely derived from models
+- lightweight
 
 ## command-line summary
 

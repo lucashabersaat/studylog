@@ -18,6 +18,7 @@ To apply the config:
 ### metrics
 Go to [Grafana](https://grafana.puzzle.ch/d/85a562078cdf77779eaa1add43ccec1e/k8s-compute-resources-namespace?orgId=1&refresh=10s&var-datasource=prometheus-k8s-cloudscale&var-namespace=pitc-pfeedback-test) to check the resources usage.
 
+
 ## database changes
 To add database changes, a changeset must be created. Liquibase is used.
 In the folder
@@ -27,6 +28,16 @@ In the folder
 are the changelog files as xml. There is one for each month. To add a change, add a changeset tag in such a file. The id is year-month-numberofchangeset_in_month.
 
 The syntax is (probably in Advanced Concepts): [https://docs.liquibase.com/concepts/home.html](https://docs.liquibase.com/concepts/home.html)
+
+
+## database
+
+To change something on the deployed db on the postgres pod, type in following in the pod terminal:
+`psql -U pfeedback`
+
+or general when having the pfeedback database locally on the machine
+(cross reference postgres commands...)
+`psql -U pfeedback -d pfeedback -h localhost -p 5432`
 
 ## tests
 ### unit tests
