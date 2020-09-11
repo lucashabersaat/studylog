@@ -39,6 +39,7 @@ Links to all the pages ordered.
   - [angular](technologies/angular.md) (new)
   - bootstrap
   - [material](material.md) (new)
+  - [quarkus](technilogies/quarkus.md) (new)
 
 ### principles
 - [rest api](technologies/rest_api.md) (new)
@@ -51,8 +52,8 @@ Links to all the pages ordered.
 
 ### linux & ?
 - [linux](technologies/linux.md)
-- [i3](i3.md)
-- [ssh](ssh.md)
+- i3
+- ssh
 
 
 ### containers
