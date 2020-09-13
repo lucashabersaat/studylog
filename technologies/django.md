@@ -63,6 +63,8 @@ polls/
 ## urls
 Are set in each application and on the project top-level file urls.py.
 
+- url dispatcher: [https://docs.djangoproject.com/en/3.1/topics/http/urls/](https://docs.djangoproject.com/en/3.1/topics/http/urls/)
+
 ## models
 
 Models are set in the corresponding models.py and migrations are created based on them.
@@ -71,3 +73,7 @@ Three-step guide to making model changes:
 - Change your models (in models.py).
 - Run python manage.py makemigrations to create migrations for those changes
 - Run python manage.py migrate to apply those changes to the database.
+
+## templates
+
+- Templates [https://docs.djangoproject.com/en/3.1/topics/templates/](https://docs.djangoproject.com/en/3.1/topics/templates/)
