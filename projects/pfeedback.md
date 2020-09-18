@@ -56,5 +56,10 @@ wip
 -  where are the tests? do I need to write tests?
 - security enabled doesn't work?
 
+
+## swagger ui
+http://localhost:8080/swagger-ui.html
+
+
 ## debug
 - `$ ng.probe($$('app-new-pfeedback')[0]).componentInstance` life debugging of a component
