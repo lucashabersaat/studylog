@@ -93,17 +93,17 @@ Overview of what i have learned so far and where.
 - rigorous software engineering
 - intro machine learning
 - visual computing
-- machine learning
 - algorithms, probability & computing
 - information retrieval
 - autonomous mobile robots
 - bachelor's thesis: inverse terrain generation
-    - geologically physical simulation
+    - geological physical simulation
     - gradient based optimization
 
 ### computer science master
 - computer graphics
 - advanced machine learning
+- physical simulation (_wip_)
 - _wip ..._
 
 ### gässli & wotschit
@@ -116,8 +116,8 @@ Overview of what i have learned so far and where.
 - testing: `rspec` `capybara`
 - version control: `git`
 - further strengthened: `html` `css` `js` `sql`
-- only touched upon: `coffeescript` `haml`
-- currently learning: `spring` `angular` `docker` `jenkins`
+- only touched upon: `coffeescript` `haml` `quarkus`
+- currently learning: `spring` `angular` `docker` `jenkins` `lightning`
 
 
 ## projects
@@ -131,4 +131,5 @@ Overview of what i have learned so far and where.
 
 ## log
 Beginning from 4.8.2020, log of new learned stuff.
-- August 2020: learning java spring, angular, docker, jenkins
+- August 2020: learning java spring, material, angular, docker, jenkins
+- September 2020: introduction into bitcoin & lightning
