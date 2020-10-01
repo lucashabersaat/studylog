@@ -31,7 +31,6 @@ Links to all the pages ordered.
   - [java](technologies/java.md)
   - [php](technologies/php.md)
   - [ruby](technologies/ruby.md)
-  - [sql](technologies/sql.md)
 - frameworks
   - [ruby on rails](technologies/ruby_on_rails.md)
   - [emberjs](technologies/emberjs.md)
@@ -41,6 +40,9 @@ Links to all the pages ordered.
   - [material](material.md) (new)
   - [quarkus](technilogies/quarkus.md) (new)
   - [django](technologies/django.md)
+- databases
+  - [sql](technologies/sql.md)
+  - [postgresql](technologies/postgresql.md)
 
 ### principles
 - [rest api](technologies/rest_api.md) (new)
