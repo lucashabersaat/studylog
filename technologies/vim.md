@@ -1,4 +1,6 @@
 # vim
 
 ## links
-- Cheatsheet: [https://vimsheet.com/](https://vimsheet.com/)
+
+* Cheatsheet: [https://vimsheet.com/](https://vimsheet.com/)
+
