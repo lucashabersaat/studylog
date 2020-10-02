@@ -8,7 +8,7 @@
 ## openshift
 In the `openshift` folder are all the `.yml` that configure the containers.
 
-To apply the config:
+### apply the config
 1. login with the openshift cli
 2. checkout the right project (prod, dev or test)
 3. go to the folder `pfeedback/openshift/scripts`
@@ -32,7 +32,7 @@ The syntax is (probably in Advanced Concepts): [https://docs.liquibase.com/conce
 
 ## database
 
-To change something on the deployed db on the postgres pod, type in following in the pod terminal:
+To change something on the deployed db on the postgres pod, login with psql in the pod terminal:
 `psql -U pfeedback`
 
 or general when having the pfeedback database locally on the machine
@@ -58,6 +58,7 @@ wip
 
 
 ## swagger ui
+This is an automatically generated documentation of the api.
 http://localhost:8080/swagger-ui.html
 
 
