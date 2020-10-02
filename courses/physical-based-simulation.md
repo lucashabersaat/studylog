@@ -1,6 +1,8 @@
-# physical based simulations in computer graphics
+---
+description: Course taken in autumn 2020 at ETH
+---
 
-_Course taken in autumn 2020 at ETH_
+# physical based simulations in computer graphics
 
 ## resources
 
@@ -17,7 +19,7 @@ _Course taken in autumn 2020 at ETH_
 * written exam
 * todo list in sorted^3
 
-## Files
+## files
 
 * repository of framework on gitlab for exercises
 * course folder on drive and later in archive
