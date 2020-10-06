@@ -1,10 +1,12 @@
-# physical based simulations in computer graphics
+---
+description: Course taken in autumn 2020 at ETH
+---
 
-*Course taken in autumn 2020 at ETH*
+# physical based simulations in computer graphics
 
 ## resources
 - Course Page: [https://moodle-app2.let.ethz.ch/course/view.php?id=13417](https://moodle-app2.let.ethz.ch/course/view.php?id=13417)
-- https://jdickinsongames.wordpress.com/2015/01/22/numerical-integration-in-games-development-2/
+- [https://jdickinsongames.wordpress.com/2015/01/22/numerical-integration-in-games-development-2/](https://jdickinsongames.wordpress.com/2015/01/22/numerical-integration-in-games-development-2/)
 - Some good introductions (like quaternions): 3blue1brown
 - God damn, neidisch: [https://eater.net/](https://eater.net/)
 - Quaterions:
@@ -23,17 +25,31 @@
 - handwritten notes (made during learning phase)
 - written exam (at end of learning phase)
 
-## Files
-- repository of framework on gitlab for exercises
-- course folder on drive and later in archive
+* online lectures on zoom
+* handwritten notes
+* exercises with a framework
+* mini project
+* written exam
+* todo list in sorted^3
 
+## files
+
+* repository of framework on gitlab for exercises
+* course folder on drive and later in archive
+
+<<<<<<< HEAD
 ## lecture
+=======
+## content
+
+>>>>>>> f0855956f309ca0f8342f60c7385092fbd2ea1ec
 1. Introduction
 2. Time integration
 3. Rigid Bodies I (Basics & Collision Response)
 4. Rigid Bodies II (Collision Detection)
 
 ## exercises
+
 1. Dummy Project
 2. Time Integration Schemes
 3. Rigid Bodies
@@ -41,6 +57,7 @@
 ## log
 
 ### 29.09.2020
+
 See if I keep this log. It seems taking notes while/after the lecture the way I want, is not realistic. The tempo is to fast, atleast for the last lecture. Going to just mark needed space, maybe do notes for some lecture, but generally postpone this to the learning phase.
 
 I really look forward to the mini-project. I have a nice idea in mind and hope that my sturdy group members Tamara aka Dämsel and Tatiana aka TatiSchnati will accept my humble epic suggestion of doing Rigid Body of a Solar System with Fracture. Meaning, we gonna blow up some planets. However, the project is not yet of my concern.
