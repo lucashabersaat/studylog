@@ -6,23 +6,32 @@
 - Course Page: [https://moodle-app2.let.ethz.ch/course/view.php?id=13417](https://moodle-app2.let.ethz.ch/course/view.php?id=13417)
 - https://jdickinsongames.wordpress.com/2015/01/22/numerical-integration-in-games-development-2/
 - Some good introductions (like quaternions): 3blue1brown
+- God damn, neidisch: [https://eater.net/](https://eater.net/)
+- Quaterions:
+    - [https://www.youtube.com/watch?v=zjMuIxRvygQ](https://www.youtube.com/watch?v=zjMuIxRvygQ])
+    - [https://eater.net/quaternions](https://eater.net/quaternions)
+- Basic Physics
+    - [https://physics.info/](https://physics.info/)
+- Applied Partial Differential Equations: [https://www.springer.com/de/book/9783319124926](https://www.springer.com/de/book/9783319124926)
 
 ## course consists for me of
-- online lectures on zoom
-- handwritten notes
-- exercises with a framework
-- mini project
-- written exam
 - todo list in sorted^3
+- online lectures on zoom
+- exercises with a framework (first half semester)
+- mini project (second half of semester)
+- concept examples, in unity? houdini?
+- handwritten notes (made during learning phase)
+- written exam (at end of learning phase)
 
 ## Files
 - repository of framework on gitlab for exercises
 - course folder on drive and later in archive
 
-## content
+## lecture
 1. Introduction
 2. Time integration
-3. Rigid Bodies
+3. Rigid Bodies I (Basics & Collision Response)
+4. Rigid Bodies II (Collision Detection)
 
 ## exercises
 1. Dummy Project
