@@ -17,32 +17,21 @@ description: Course taken in autumn 2020 at ETH
 - Applied Partial Differential Equations: [https://www.springer.com/de/book/9783319124926](https://www.springer.com/de/book/9783319124926)
 
 ## course consists for me of
-- todo list in sorted^3
-- online lectures on zoom
-- exercises with a framework (first half semester)
-- mini project (second half of semester)
-- concept examples, in unity? houdini?
-- handwritten notes (made during learning phase)
-- written exam (at end of learning phase)
-
-* online lectures on zoom
-* handwritten notes
-* exercises with a framework
-* mini project
-* written exam
 * todo list in sorted^3
+* online lectures on zoom
+* exercises with a framework (first half semester)
+* mini project (second half of semester)
+* concept examples, in unity? houdini?
+* handwritten notes (made during learning phase)
+* written exam (at end of learning phase)
+
 
 ## files
 
 * repository of framework on gitlab for exercises
 * course folder on drive and later in archive
 
-<<<<<<< HEAD
 ## lecture
-=======
-## content
-
->>>>>>> f0855956f309ca0f8342f60c7385092fbd2ea1ec
 1. Introduction
 2. Time integration
 3. Rigid Bodies I (Basics & Collision Response)
