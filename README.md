@@ -1,6 +1,10 @@
-# studylog
+---
+description: >-
+  Summary of what I learned, studied and picked up in the course of my life.
+  Shall function as log, journal and index of my knowledge in computer science.
+---
 
-Summary of what I learned, studied and picked up in the course of my life. Shall function as log, journal and index of my knowledge in computer science.
+# studylog
 
 ## index
 
@@ -52,12 +56,17 @@ Links to all the pages ordered.
 
 * [rest api](technologies/rest_api.md) \(new\)
 * devops \(new\)
-* uml
+* uml2
 
 ### machine learning frameworks
 
 * tensorflow
 * pytorch
+
+### graphics software
+
+* blender
+* houdini
 
 ### linux & ?
 
@@ -71,11 +80,14 @@ Links to all the pages ordered.
 * [openshift](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/openshift.md) \(new\)
 * jenkins \(new\)
 
-### unsorted
+### ide
 
 * [vim](technologies/vim.md)
 * atom
 * intellij
+
+### unsorted
+
 * [gradle](technologies/gradle.md)
 * git
 * [lightning](technologies/lightning.md) \(new\)
@@ -117,7 +129,7 @@ Overview of what i have learned so far and where.
 * computer graphics
 * advanced machine learning
 * physical simulation \(_wip_\)
-* _wip ..._
+* _wip_
 
 ### gässli & wotschit
 
@@ -136,10 +148,10 @@ Overview of what i have learned so far and where.
 
 ## projects
 
-* gässli
+* [gässli](projects/gaessli.md)
 * wotschit
-* inverse terrain simulation
-* cryptopus
+* [inverse terrain simulation](inverse-terrain-simulation.md)
+* [cryptopus](projects/cryptopus.md)
 * [pfeedback](projects/pfeedback.md)
 * [server\_base](projects/server_base.md)
 

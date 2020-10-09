@@ -1,4 +1,4 @@
-# pfeedback.md
+# pfeedback
 
 ## setup
 
@@ -8,10 +8,11 @@
 ## openshift
 
 ### apply the config
+
 1. login with the openshift cli
-2. checkout the right project (prod, dev or test)
+2. checkout the right project \(prod, dev or test\)
 3. go to the folder `pfeedback/openshift/scripts`
-4. execute `./apply-env.sh prod` (or `test` or `dev`, depending which environment)
+4. execute `./apply-env.sh prod` \(or `test` or `dev`, depending which environment\)
 
 To apply the config: 1. login with the openshift cli 2. checkout the right project \(prod, dev or test\) 3. go to the folder `pfeedback/openshift/scripts` 4. execute `./apply-env.sh prod` \(or `test` or `dev`, depending which environment\)
 
@@ -31,8 +32,7 @@ The syntax is \(probably in Advanced Concepts\): [https://docs.liquibase.com/con
 
 ## database
 
-To change something on the deployed db on the postgres pod, login with psql in the pod terminal:
-`psql -U pfeedback`
+To change something on the deployed db on the postgres pod, login with psql in the pod terminal: `psql -U pfeedback`
 
 or general when having the pfeedback database locally on the machine \(cross reference postgres commands...\) `psql -U pfeedback -d pfeedback -h localhost -p 5432`
 
@@ -60,11 +60,12 @@ wip
 * security enabled doesn't work?
 
 ## swagger ui
-This is an automatically generated documentation of the api.
-http://localhost:8080/swagger-ui.html
+
+This is an automatically generated documentation of the api. [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
 [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
 ## debug
 
 * `$ ng.probe($$('app-new-pfeedback')[0]).componentInstance` life debugging of a component
+
