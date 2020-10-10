@@ -5,26 +5,28 @@ description: Course taken in autumn 2020 at ETH
 # physical based simulations in computer graphics
 
 ## resources
-- Course Page: [https://moodle-app2.let.ethz.ch/course/view.php?id=13417](https://moodle-app2.let.ethz.ch/course/view.php?id=13417)
-- [https://jdickinsongames.wordpress.com/2015/01/22/numerical-integration-in-games-development-2/](https://jdickinsongames.wordpress.com/2015/01/22/numerical-integration-in-games-development-2/)
-- Some good introductions (like quaternions): 3blue1brown
-- God damn, neidisch: [https://eater.net/](https://eater.net/)
-- Quaterions:
-    - [https://www.youtube.com/watch?v=zjMuIxRvygQ](https://www.youtube.com/watch?v=zjMuIxRvygQ])
-    - [https://eater.net/quaternions](https://eater.net/quaternions)
-- Basic Physics
-    - [https://physics.info/](https://physics.info/)
-- Applied Partial Differential Equations: [https://www.springer.com/de/book/9783319124926](https://www.springer.com/de/book/9783319124926)
+
+* Course Page: [https://moodle-app2.let.ethz.ch/course/view.php?id=13417](https://moodle-app2.let.ethz.ch/course/view.php?id=13417)
+* [https://jdickinsongames.wordpress.com/2015/01/22/numerical-integration-in-games-development-2/](https://jdickinsongames.wordpress.com/2015/01/22/numerical-integration-in-games-development-2/)
+* Some good introductions \(like quaternions\): 3blue1brown
+* God damn, neidisch: [https://eater.net/](https://eater.net/)
+* Quaterions:
+  * [https://www.youtube.com/watch?v=zjMuIxRvygQ](https://www.youtube.com/watch?v=zjMuIxRvygQ])
+  * [https://eater.net/quaternions](https://eater.net/quaternions)
+* Basic Physics
+  * [https://physics.info/](https://physics.info/)
+* Applied Partial Differential Equations: [https://www.springer.com/de/book/9783319124926](https://www.springer.com/de/book/9783319124926)
+* Impulse Collision Respons: [https://www.cs.cmu.edu/%7Ebaraff/sigcourse/notesd2.pdf](https://www.cs.cmu.edu/%7Ebaraff/sigcourse/notesd2.pdf)
 
 ## course consists for me of
+
 * todo list in sorted^3
 * online lectures on zoom
-* exercises with a framework (first half semester)
-* mini project (second half of semester)
+* exercises with a framework \(first half semester\)
+* mini project \(second half of semester\)
 * concept examples, in unity? houdini?
-* handwritten notes (made during learning phase)
-* written exam (at end of learning phase)
-
+* handwritten notes \(made during learning phase\)
+* written exam \(at end of learning phase\)
 
 ## files
 
@@ -32,16 +34,17 @@ description: Course taken in autumn 2020 at ETH
 * course folder on drive and later in archive
 
 ## lecture
+
 1. Introduction
 2. Time integration
-3. Rigid Bodies I (Basics & Collision Response)
-4. Rigid Bodies II (Collision Detection)
+3. Rigid Bodies I \(Basics & Collision Response\)
+4. Rigid Bodies II \(Collision Detection\)
 
 ## exercises
 
 1. Dummy Project
 2. Time Integration Schemes
-3. Rigid Bodies
+3. Rigid Bodies: Collision Response, Broad & Narrow Collision Detection
 
 ## log
 
@@ -56,3 +59,4 @@ I am very ambitious and I don't want the graphics drama to repeat, where I wante
 To further improve the process I started this log. Just to think and analyse problems.
 
 I want to do more in this course, but experience says that I will need maximum time to do the minimum, next to all my other projects. I probably need to focus more on one and finish that... For now, doing the exercises and thoroughly understanding them will do the job. An additional thing is looking for resources and linking them here.
+
