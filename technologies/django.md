@@ -9,6 +9,9 @@ _The web framework for perfectionists with deadlines._
 ## resources
 
 * Getting started: [https://www.djangoproject.com/start/](https://www.djangoproject.com/start/)
+* Doc: [https://docs.djangoproject.com/en/3.1/genindex/](https://docs.djangoproject.com/en/3.1/genindex/)
+* API Reference: [https://docs.djangoproject.com/en/3.1/ref/](https://docs.djangoproject.com/en/3.1/ref/)
+* CI/CD with GitHub: [https://medium.com/@\_gabiCavalcante/python-django-and-github-ci-cd-65f9eae7e6fa](https://medium.com/@_gabiCavalcante/python-django-and-github-ci-cd-65f9eae7e6fa)
 
 ## installation
 
