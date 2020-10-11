@@ -1,10 +1,8 @@
+---
+description: The web framework for perfectionists with deadlines.
+---
+
 # django
-
-## django
-
-A python web framework.
-
-_The web framework for perfectionists with deadlines._
 
 ## resources
 
@@ -21,6 +19,7 @@ Django is a normal python package and can be installed as such.
 
 * migrations are entirely derived from models
 * lightweight
+* it's python
 
 ## command-line summary
 
