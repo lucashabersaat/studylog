@@ -17,6 +17,7 @@ description: Course taken in autumn 2020 at ETH
   * [https://physics.info/](https://physics.info/)
 * Applied Partial Differential Equations: [https://www.springer.com/de/book/9783319124926](https://www.springer.com/de/book/9783319124926)
 * Impulse Collision Respons: [https://www.cs.cmu.edu/%7Ebaraff/sigcourse/notesd2.pdf](https://www.cs.cmu.edu/%7Ebaraff/sigcourse/notesd2.pdf)
+* Fluid something: Eugene Karthoyanski or so
 
 ## course consists for me of
 
@@ -39,7 +40,8 @@ description: Course taken in autumn 2020 at ETH
 2. Time integration
 3. Rigid Bodies I \(Basics & Collision Response\)
 4. Rigid Bodies II \(Collision Detection\)
-
+5. Fluid I
+6. 
 ## exercises
 
 1. Dummy Project
