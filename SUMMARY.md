@@ -32,6 +32,7 @@
   * [bootstrap](technologies/bootstrap.md)
   * [sql](technologies/sql.md)
 * [projects](projects/README.md)
+  * [lightning atm](projects/lightning-atm.md)
   * [pfeedback](projects/pfeedback.md)
   * [my server on serverbase](projects/server_base.md)
   * [cryptopus](projects/cryptopus.md)
