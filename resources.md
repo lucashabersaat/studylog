@@ -6,3 +6,5 @@ Collection of resources or links that apply either generally for IT or that gath
 * Cheatsheets: [https://devhints.io/](https://devhints.io/)
 * Game Programming Patterns: [http://gameprogrammingpatterns.com/](http://gameprogrammingpatterns.com/)
 
+
+

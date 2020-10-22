@@ -42,5 +42,4 @@
   * [meeting 20.10.20](inverse-terrain-simulation/meeting-20.10.20.md)
 * [courses](courses/README.md)
   * [physical based simulations in computer graphics](courses/physical-based-simulation.md)
-* [questions](questions.md)
 

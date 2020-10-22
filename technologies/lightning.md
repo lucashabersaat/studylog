@@ -5,11 +5,7 @@
 
 ## resources
 
-## notes 31.8.2020
-
-Introduction by Gabriel Comte.
-
-* book: Master in Bitcoin
+* book: Master in BitCoin
 
 ## notes 4.9.2020
 
