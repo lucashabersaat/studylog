@@ -1,6 +1,6 @@
 # pfeedback
 
-## setup
+## setup development environment
 
 1. start frontend: in frontend folder `npm start`
 2. start backend: in intellij build & run configuration
@@ -22,15 +22,15 @@ Go to [Grafana](https://grafana.puzzle.ch/d/85a562078cdf77779eaa1add43ccec1e/k8s
 
 ## database changes
 
-To add database changes, a changeset must be created. Liquibase is used. In the folder
+To add database changes, a **changeset** must be created. Liquibase is used. In the folder
 
 `backend/src/main/resources/db/changelog/changelogs`
 
-are the changelog files as xml. There is one for each month. To add a change, add a changeset tag in such a file. The id is year-month-numberofchangeset\_in\_month.
+are the changelog files as `xml`. There is one for each month. To add a change, add a changeset tag in such a file. The _id_ is year-month-numberofchangeset\_in\_this\_month.
 
 The syntax is \(probably in Advanced Concepts\): [https://docs.liquibase.com/concepts/home.html](https://docs.liquibase.com/concepts/home.html)
 
-## database
+### on deployed db
 
 To change something on the deployed db on the postgres pod, login with psql in the pod terminal: `psql -U pfeedback`
 
@@ -67,5 +67,5 @@ This is an automatically generated documentation of the api. [http://localhost:8
 
 ## debug
 
-* `$ ng.probe($$('app-new-pfeedback')[0]).componentInstance` life debugging of a component
+* `$ ng.probe($$('app-new-pfeedback')[0]).componentInstance` life debugging of a component in browser
 
