@@ -58,8 +58,6 @@ To run tests, execute in _/frontend_ `$ ng e2e` will run the e2e tests defined i
 
 {% embed url="https://jasmine.github.io/index.html" %}
 
-
-
 ### tslint
 
 * TSLint: `$ npm run lint`
