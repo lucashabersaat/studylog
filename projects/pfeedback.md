@@ -52,7 +52,13 @@ wip
 
 ### e2e tests
 
-wip
+To run tests, execute in _/frontend_ `$ ng e2e` will run the e2e tests defined in _/frontend/e2e_. It will first start the frontend server, `ng serve` and then run the tests. The backend needs to run aswell. The e2e tests are run using **Protractor** and run configs can be created for Protractor. It also uses the **Jasmine** test library.
+
+{% embed url="https://www.protractortest.org/\#/api?view=ProtractorBrowser" %}
+
+{% embed url="https://jasmine.github.io/index.html" %}
+
+
 
 ### tslint
 

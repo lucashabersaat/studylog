@@ -29,14 +29,6 @@ Linux system is divided into three main parts:
 
   -
 
-## install software
-
-Is managed using a package manager. Like **apt-get**.
-
-* `sudo apt-get install [packagename]`
-* `sudo apt-get --purge remove [packagename]` 
-  * `--purge` removes configurations
-
 ## PATH variable
 
 The path variable are the directories the shell looks for the commands.
