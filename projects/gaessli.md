@@ -12,7 +12,7 @@
 * Aufräumen allgemein
 * Kaje Code integrieren/zusammenführen
 * Design
-* 
+
 ## mit Flo
 
 * Ordnerstruktur
