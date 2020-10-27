@@ -34,5 +34,7 @@ description: The project for the course phsyically based simulation in computer 
   </tbody>
 </table>
 
+## log
 
+* 27.10.2020: project started, worked till 22:00, Tamara can be very critical, that's nice
 
