@@ -1,0 +1,28 @@
+# solar system simulation
+
+## time tracking
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Date</th>
+      <th style="text-align:left">Hours worked</th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">27.10.2020</td>
+      <td style="text-align:left">8h</td>
+      <td style="text-align:left">
+        <p>Project started,</p>
+        <p>first meeting,</p>
+        <p>Scenes added,</p>
+        <p>naive gravitational force</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+

@@ -38,8 +38,10 @@
   * [cryptopus](projects/cryptopus.md)
   * [gässli](projects/gaessli.md)
   * [questhub](projects/questhub.md)
-* [inverse terrain simulation](inverse-terrain-simulation/README.md)
-  * [meeting 20.10.20](inverse-terrain-simulation/meeting-20.10.20.md)
+  * [inverse terrain simulation](projects/inverse-terrain-simulation/README.md)
+    * [meeting 26.10.2020](projects/inverse-terrain-simulation/meeting-26.10.2020.md)
+    * [meeting 20.10.2020](projects/inverse-terrain-simulation/meeting-20.10.20.md)
+* [solar system simulation](solar-system-simulation.md)
 * [courses](courses/README.md)
   * [physical based simulations in computer graphics](courses/physical-based-simulation.md)
 
