@@ -1,4 +1,14 @@
+---
+description: The project for the course phsyically based simulation in computer graphics
+---
+
 # solar system simulation
+
+## resources
+
+{% embed url="https://gitlab.ethz.ch/halucas/pbs20\_solarsystem" caption="Repository" %}
+
+
 
 ## time tracking
 
