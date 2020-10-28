@@ -31,6 +31,13 @@ description: The project for the course phsyically based simulation in computer 
         <p>naive gravitational force</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">28.10.2020</td>
+      <td style="text-align:left">2.5h</td>
+      <td style="text-align:left">cleanup Scenes,
+        <br />add ThreeBodyScene,
+        <br />fix Scene change</td>
+    </tr>
   </tbody>
 </table>
 
