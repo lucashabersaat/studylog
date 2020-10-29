@@ -2,7 +2,8 @@
 
 ## resources
 
-* SciPython: [https://scipython.com/](https://scipython.com/)
+* [Real Python](https://realpython.com/)
+* [SciPython](https://scipython.com/) 
 
 ## virtual environments
 
