@@ -62,7 +62,10 @@ First part gives type, next rights for user, then for groups and lastly for othe
 * x: executable
 * -: empty
 
-## pipes
+## disc space
+
+* list discs: `dh [-h]`
+* list files: `du [-h] [path]`
 
 ## ports
 
