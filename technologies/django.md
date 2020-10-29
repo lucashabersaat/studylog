@@ -10,12 +10,6 @@ description: The web framework for perfectionists with deadlines.
 * Doc: [https://docs.djangoproject.com/en/3.1/genindex/](https://docs.djangoproject.com/en/3.1/genindex/)
 * API Reference: [https://docs.djangoproject.com/en/3.1/ref/](https://docs.djangoproject.com/en/3.1/ref/)
 
-### CI/CD
-
-* CI/CD with GitHub: [https://medium.com/@\_gabiCavalcante/python-django-and-github-ci-cd-65f9eae7e6fa](https://medium.com/@_gabiCavalcante/python-django-and-github-ci-cd-65f9eae7e6fa)
-* [https://python-deploy-framework.readthedocs.io/en/latest/pages/django-deployment.html](https://python-deploy-framework.readthedocs.io/en/latest/pages/django-deployment.html)
-* Django/Gunicorn/Postgres/Docker: [https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/\#project-setup](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/#project-setup)
-
 ## installation
 
 Django is a normal python package and can be installed as such.
@@ -55,7 +49,7 @@ mysite/
 * mysite/settingts.py: settings/configuration for project
 * mysite/urls.py: URL declarations
 
-## apps
+### apps
 
 A project consists of multiple application, that represent something like a weblogsystem, record database, small poll app or similar. They can live anywhere.
 
@@ -71,13 +65,13 @@ polls/
     views.py
 ```
 
-## urls
+### urls
 
 Are set in each application and on the project top-level file urls.py.
 
 * url dispatcher: [https://docs.djangoproject.com/en/3.1/topics/http/urls/](https://docs.djangoproject.com/en/3.1/topics/http/urls/)
 
-## models
+### models
 
 Models are set in the corresponding models.py and migrations are created based on them.
 
@@ -87,7 +81,28 @@ Three-step guide to making model changes:
 * Run python manage.py makemigrations to create migrations for those changes
 * Run python manage.py migrate to apply those changes to the database.
 
-## templates
+### templates
 
 * Templates [https://docs.djangoproject.com/en/3.1/topics/templates/](https://docs.djangoproject.com/en/3.1/topics/templates/)
+
+## ci / cd
+
+### example project with gunicorn, postgres, nginx and docker
+
+* [https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/\#project-setup](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/#project-setup)
+
+### 
+
+### references
+
+{% embed url="https://medium.com/@\_gabiCavalcante/python-django-and-github-ci-cd-65f9eae7e6fa" %}
+
+{% embed url="https://python-deploy-framework.readthedocs.io/en/latest/pages/django-deployment.html" %}
+
+
+
+  
+
+
+
 
