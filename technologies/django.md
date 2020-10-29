@@ -10,6 +10,7 @@ description: The web framework for perfectionists with deadlines.
 * Doc: [https://docs.djangoproject.com/en/3.1/genindex/](https://docs.djangoproject.com/en/3.1/genindex/)
 * API Reference: [https://docs.djangoproject.com/en/3.1/ref/](https://docs.djangoproject.com/en/3.1/ref/)
 * CI/CD with GitHub: [https://medium.com/@\_gabiCavalcante/python-django-and-github-ci-cd-65f9eae7e6fa](https://medium.com/@_gabiCavalcante/python-django-and-github-ci-cd-65f9eae7e6fa)
+* [https://python-deploy-framework.readthedocs.io/en/latest/pages/django-deployment.html](https://python-deploy-framework.readthedocs.io/en/latest/pages/django-deployment.html)
 
 ## installation
 
