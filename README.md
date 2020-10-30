@@ -4,7 +4,7 @@ description: >-
   Shall function as log, journal and index of my knowledge in computer science.
 ---
 
-# studylog
+# index
 
 ## index
 
@@ -16,12 +16,12 @@ Links to all the pages ordered.
 * c++
 * c\#
 * java
-* **python**
-* [php](technologies/interpreted-languages/php.md)
-* [ruby](technologies/interpreted-languages/ruby.md)
-* [javascript](technologies/interpreted-languages/javascript.md)
-* [typescript](technologies/interpreted-languages/typescript.md) \(new\)
-* [sql](technologies/databases/sql.md)
+* \*\*\*\*[**python**](content/technologies/interpreted-languages/python.md)\*\*\*\*
+* [php](content/technologies/interpreted-languages/php.md)
+* [ruby](content/technologies/interpreted-languages/ruby.md)
+* [javascript](content/technologies/interpreted-languages/javascript.md)
+* [typescript](content/technologies/interpreted-languages/typescript.md) \(new\)
+* [sql](content/technologies/databases/sql.md)
 * haskell
 
 ### mark-up languages
@@ -33,28 +33,28 @@ Links to all the pages ordered.
 
 * programming languages
   * [html](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/technologies/html.md)
-  * [css](technologies/css.md)
-  * [javascript](technologies/interpreted-languages/javascript.md)
-  * [typescript](technologies/interpreted-languages/typescript.md) \(new\)
+  * [css](content/technologies/css.md)
+  * [javascript](content/technologies/interpreted-languages/javascript.md)
+  * [typescript](content/technologies/interpreted-languages/typescript.md) \(new\)
   * [java](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/technologies/java.md)
-  * [php](technologies/interpreted-languages/php.md)
-  * [ruby](technologies/interpreted-languages/ruby.md)
+  * [php](content/technologies/interpreted-languages/php.md)
+  * [ruby](content/technologies/interpreted-languages/ruby.md)
 * frameworks
-  * [ruby on rails](technologies/web-frameworks/ruby_on_rails.md)
-  * [emberjs](technologies/web-frameworks/emberjs.md)
-  * [spring](technologies/web-frameworks/spring.md) \(new\)
-  * [angular](technologies/web-frameworks/angular.md) \(new\)
-  * bootstrap
+  * [ruby on rails](content/technologies/web-frameworks/ruby_on_rails.md)
+  * [emberjs](content/technologies/web-frameworks/emberjs.md)
+  * [spring](content/technologies/web-frameworks/spring.md) \(new\)
+  * [angular](content/technologies/web-frameworks/angular.md) \(new\)
+  * [bootstrap](content/technologies/bootstrap.md)
   * [material](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/material.md) \(new\)
   * [quarkus](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/technilogies/quarkus.md) \(new\)
-  * [django](technologies/web-frameworks/django.md)
+  * [django](content/technologies/web-frameworks/django.md)
 * databases
-  * [sql](technologies/databases/sql.md)
-  * [postgresql](technologies/databases/postgresql.md)
+  * [sql](content/technologies/databases/sql.md)
+  * [postgresql](content/technologies/databases/postgresql.md)
 
 ### principles
 
-* [rest api](technologies/web-frameworks/rest_api.md) \(new\)
+* [rest api](content/technologies/web-frameworks/rest_api.md) \(new\)
 * devops \(new\)
 * uml2
 
@@ -70,7 +70,7 @@ Links to all the pages ordered.
 
 ### linux & ?
 
-* [linux](technologies/linux.md)
+* [linux](content/technologies/linux.md)
 * i3
 * ssh
 
@@ -82,15 +82,15 @@ Links to all the pages ordered.
 
 ### ide
 
-* [vim](technologies/vim.md)
+* [vim](content/technologies/vim.md)
 * atom
 * intellij
 
 ### unsorted
 
-* [gradle](technologies/gradle.md)
+* [gradle](content/technologies/gradle.md)
 * git
-* [lightning](technologies/lightning.md) \(new\)
+* [lightning](content/technologies/lightning.md) \(new\)
 
 ## overview
 
@@ -134,26 +134,26 @@ Overview of what i have learned so far and where.
 ### gässli & wotschit
 
 * independent webdevelopment: `php` `html` `css` `js` `sql`
-* _wip_
 
 ### puzzle
 
 * programming language: `ruby`
-* framworks: `ruby on rails` `ember.js`
-* testing: `rspec` `capybara`
+* framworks: `ruby on rails` `ember.js` `angular`
+* testing: `rspec` `capybara` `jasmine` `protractor`
 * version control: `git`
 * further strengthened: `html` `css` `js` `sql`
 * only touched upon: `coffeescript` `haml` `quarkus`
-* currently learning: `spring` `angular` `docker` `jenkins` `lightning`
+* currently learning: `spring` `docker` `jenkins` `openshift` `lightning`
 
 ## projects
 
-* [gässli](projects/gaessli.md)
+* [gässli](content/projects/gaessli.md)
 * wotschit
-* [inverse terrain simulation](projects/inverse-terrain-simulation/)
-* [cryptopus](projects/cryptopus.md)
-* [pfeedback](projects/pfeedback.md)
-* [server\_base](projects/server_base.md)
+* [inverse terrain simulation](content/projects/inverse-terrain-simulation/)
+* [cryptopus](content/projects/cryptopus.md)
+* [pfeedback](content/projects/pfeedback.md)
+* [server\_base](content/projects/server_base.md)
+* [questhub](content/projects/questhub.md)
 
 ## log
 
