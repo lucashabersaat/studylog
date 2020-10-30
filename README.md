@@ -56,15 +56,16 @@ Links to all the pages ordered.
 
 * [rest api](content/technologies/web-frameworks/rest_api.md) \(new\)
 * devops \(new\)
-* uml2
+* uml
 
 ### machine learning frameworks
 
 * tensorflow
 * pytorch
 
-### graphics software
+### graphics software / frameworks
 
+* opengl
 * blender
 * houdini
 
@@ -100,7 +101,7 @@ Overview of what i have learned so far and where.
 
 * intro to programming: `java` `c#`
 * intro to webdevelopment: `php` `html` `css` `js` `sql`
-* intro to opengl
+* intro to `opengl`
 
 ### computer science bachelor
 

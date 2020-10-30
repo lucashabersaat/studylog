@@ -40,6 +40,7 @@
   * [material](content/technologies/material.md)
   * [bootstrap](content/technologies/bootstrap.md)
 * [projects](content/projects/README.md)
+  * [voxiety](content/projects/voxiety.md)
   * [lightning atm](content/projects/lightning-atm.md)
   * [pfeedback](content/projects/pfeedback.md)
   * [my server on serverbase](content/projects/server_base.md)
