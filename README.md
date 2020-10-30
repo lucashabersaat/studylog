@@ -17,11 +17,11 @@ Links to all the pages ordered.
 * c\#
 * java
 * **python**
-* [php](technologies/php.md)
-* [ruby](technologies/ruby.md)
-* [javascript](technologies/javascript.md)
-* [typescript](technologies/typescript.md) \(new\)
-* [sql](technologies/sql.md)
+* [php](technologies/interpreted-languages/php.md)
+* [ruby](technologies/interpreted-languages/ruby.md)
+* [javascript](technologies/interpreted-languages/javascript.md)
+* [typescript](technologies/interpreted-languages/typescript.md) \(new\)
+* [sql](technologies/databases/sql.md)
 * haskell
 
 ### mark-up languages
@@ -34,27 +34,27 @@ Links to all the pages ordered.
 * programming languages
   * [html](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/technologies/html.md)
   * [css](technologies/css.md)
-  * [javascript](technologies/javascript.md)
-  * [typescript](technologies/typescript.md) \(new\)
+  * [javascript](technologies/interpreted-languages/javascript.md)
+  * [typescript](technologies/interpreted-languages/typescript.md) \(new\)
   * [java](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/technologies/java.md)
-  * [php](technologies/php.md)
-  * [ruby](technologies/ruby.md)
+  * [php](technologies/interpreted-languages/php.md)
+  * [ruby](technologies/interpreted-languages/ruby.md)
 * frameworks
-  * [ruby on rails](technologies/ruby_on_rails.md)
-  * [emberjs](technologies/emberjs.md)
-  * [spring](technologies/spring.md) \(new\)
-  * [angular](technologies/angular.md) \(new\)
+  * [ruby on rails](technologies/web-frameworks/ruby_on_rails.md)
+  * [emberjs](technologies/web-frameworks/emberjs.md)
+  * [spring](technologies/web-frameworks/spring.md) \(new\)
+  * [angular](technologies/web-frameworks/angular.md) \(new\)
   * bootstrap
   * [material](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/material.md) \(new\)
   * [quarkus](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/technilogies/quarkus.md) \(new\)
-  * [django](technologies/django.md)
+  * [django](technologies/web-frameworks/django.md)
 * databases
-  * [sql](technologies/sql.md)
-  * [postgresql](technologies/postgresql.md)
+  * [sql](technologies/databases/sql.md)
+  * [postgresql](technologies/databases/postgresql.md)
 
 ### principles
 
-* [rest api](technologies/rest_api.md) \(new\)
+* [rest api](technologies/web-frameworks/rest_api.md) \(new\)
 * devops \(new\)
 * uml2
 

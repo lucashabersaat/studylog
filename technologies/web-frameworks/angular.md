@@ -33,7 +33,7 @@ A template is associated with a component in HTML and contains _interpolation bi
 
 ## overview
 
-![Angular Overview](../.gitbook/assets/angular_overview.png)
+![Angular Overview](../../.gitbook/assets/angular_overview.png)
 
 * Component and template define an angular view.
 * Depedency injection provides services to a component.
