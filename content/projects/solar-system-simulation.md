@@ -38,6 +38,19 @@ description: The project for the course phsyically based simulation in computer 
         <br />add ThreeBodyScene,
         <br />fix Scene change</td>
     </tr>
+    <tr>
+      <td style="text-align:left">31.10.2020</td>
+      <td style="text-align:left">2.5h</td>
+      <td style="text-align:left">
+        <p>Fasten Narrow Phase Collision Detection Loop,</p>
+        <p>Put BoundarySphere into RigidObject</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
 
