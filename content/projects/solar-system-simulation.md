@@ -47,9 +47,9 @@ description: The project for the course phsyically based simulation in computer 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">2.11.2020</td>
+      <td style="text-align:left">0.5h</td>
+      <td style="text-align:left">Review Tati&apos;s Broad Phase Collision Detection</td>
     </tr>
   </tbody>
 </table>
