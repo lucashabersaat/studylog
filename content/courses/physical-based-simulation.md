@@ -47,6 +47,8 @@ description: Course taken in autumn 2020 at ETH
 1. Dummy Project
 2. Time Integration Schemes
 3. Rigid Bodies: Collision Response, Broad & Narrow Collision Detection
+4. Fluid
+5. Soft Body
 
 ## log
 
