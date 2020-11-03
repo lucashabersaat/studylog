@@ -1,6 +1,10 @@
+---
+description: 'A little idea of a ''perfect'' todo application, or atleast one perfect for me.'
+---
+
 # questhub
 
-A little idea of a 'perfect' todo application, or atleast one perfect for me.
+`django` `web-app` 
 
 ## references
 

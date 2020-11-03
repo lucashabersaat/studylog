@@ -4,6 +4,8 @@ description: Bachelor's Thesis and semster project.
 
 # inverse terrain simulation
 
+`studies` `bachelor's thesis` `semester project`
+
 ## time tracking
 
 | Date | Hours worked | Comment |

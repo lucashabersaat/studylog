@@ -4,6 +4,8 @@ description: A feedback tool developed by Puzzle ITC.
 
 # pfeedback
 
+`web-app` `angular` `spring` 
+
 ## setup development environment
 
 1. start frontend: in frontend folder `npm start`

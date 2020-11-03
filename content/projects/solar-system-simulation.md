@@ -4,6 +4,8 @@ description: The project for the course phsyically based simulation in computer 
 
 # solar system simulation
 
+`studies` `c++`
+
 ## resources
 
 {% embed url="https://gitlab.ethz.ch/halucas/pbs20\_solarsystem" caption="Repository" %}
