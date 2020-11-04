@@ -12,6 +12,7 @@ description: Bachelor's Thesis and semster project.
 | :--- | :--- | :--- |
 | 28.10.2020 | 9h | Fix gradients, checking W', implementing A \(without tilde\) |
 | 2.11.2020 | 8.5h | Implement backward of A \(note: not Ã\) |
+| 4.11.2020 | 5h | Debug dA/dz, found bug |
 
 
 
