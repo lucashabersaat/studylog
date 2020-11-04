@@ -6,6 +6,14 @@ description: Bachelor's Thesis and semster project.
 
 `studies` `bachelor's thesis` `semester project`
 
+## outline
+
+The project currently consists of roughly three phases. 
+
+1. fixing the gradients
+2. finish optimization
+3. neural network
+
 ## time tracking
 
 | Date | Hours worked | Comment |
