@@ -61,6 +61,11 @@ description: The project for the course phsyically based simulation in computer 
         <p>Debug Fixd Grid Space Partitioning</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">5.11.2020</td>
+      <td style="text-align:left">2h</td>
+      <td style="text-align:left">First Test Rendering in blender</td>
+    </tr>
   </tbody>
 </table>
 
