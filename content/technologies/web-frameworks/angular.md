@@ -77,7 +77,7 @@ The root component app.component is in /src/app and is the top hierarchy compone
 
 ## built in services
 
-* `location` for interactign with the browser
+* `location` for interaction with the browser
 
 ## http client
 
