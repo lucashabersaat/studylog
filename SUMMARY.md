@@ -20,6 +20,7 @@
     * [angular](content/technologies/web-frameworks/angular.md)
     * [spring](content/technologies/web-frameworks/spring.md)
     * [django](content/technologies/web-frameworks/django.md)
+    * [flask](content/technologies/web-frameworks/flask.md)
     * [quarkus](content/technologies/web-frameworks/quarkus.md)
     * [rest api](content/technologies/web-frameworks/rest_api.md)
   * [databases](content/technologies/databases/README.md)
