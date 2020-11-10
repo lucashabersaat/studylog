@@ -66,6 +66,14 @@ description: The project for the course phsyically based simulation in computer 
       <td style="text-align:left">2h</td>
       <td style="text-align:left">First Test Rendering in blender</td>
     </tr>
+    <tr>
+      <td style="text-align:left">10.11.2020</td>
+      <td style="text-align:left">4.5h</td>
+      <td style="text-align:left">
+        <p>Looked into Fracture,</p>
+        <p>started Collision Scene</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
