@@ -16,12 +16,45 @@ The project currently consists of roughly three phases.
 
 ## time tracking
 
-| Date | Hours worked | Comment |
-| :--- | :--- | :--- |
-| 28.10.2020 | 9h | Fix gradients, checking W', implementing A \(without tilde\) |
-| 2.11.2020 | 8.5h | Implement backward of A \(note: not Ã\) |
-| 4.11.2020 | 5h | Debug dA/dz, found bug |
-| 9.11.2020 | 8h |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Date</th>
+      <th style="text-align:left">Hours worked</th>
+      <th style="text-align:left">Comment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">28.10.2020</td>
+      <td style="text-align:left">9h</td>
+      <td style="text-align:left">Fix gradients, checking W&apos;, implementing A (without tilde)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2.11.2020</td>
+      <td style="text-align:left">8.5h</td>
+      <td style="text-align:left">Implement backward of A (note: not &#xC3;)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">4.11.2020</td>
+      <td style="text-align:left">5h</td>
+      <td style="text-align:left">Debug dA/dz, found bug</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">9.11.2020</td>
+      <td style="text-align:left">8h</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">11.11.2020</td>
+      <td style="text-align:left">8h</td>
+      <td style="text-align:left">
+        <p>Add tests for mdr, excluding some cases, adding more example terrains,</p>
+        <p>-&gt; Clue: must be something when boundary is receiver.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
