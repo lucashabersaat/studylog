@@ -47,7 +47,7 @@ The project currently consists of roughly three phases.
     </tr>
     <tr>
       <td style="text-align:left">11.11.2020</td>
-      <td style="text-align:left">8h</td>
+      <td style="text-align:left">8.5h</td>
       <td style="text-align:left">
         <p>Add tests for mdr, excluding some cases, adding more example terrains,</p>
         <p>-&gt; Clue: must be something when boundary is receiver.</p>
