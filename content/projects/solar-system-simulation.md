@@ -19,7 +19,7 @@ description: The project for the course phsyically based simulation in computer 
     <tr>
       <th style="text-align:left">Date</th>
       <th style="text-align:left">Hours worked</th>
-      <th style="text-align:left"></th>
+      <th style="text-align:left">Description</th>
     </tr>
   </thead>
   <tbody>
@@ -73,6 +73,11 @@ description: The project for the course phsyically based simulation in computer 
         <p>Looked into Fracture,</p>
         <p>started Collision Scene</p>
       </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">12.11.2020</td>
+      <td style="text-align:left">0.75</td>
+      <td style="text-align:left">Fracture Paper lese</td>
     </tr>
   </tbody>
 </table>
