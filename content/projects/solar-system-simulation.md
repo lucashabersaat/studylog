@@ -84,6 +84,16 @@ description: The project for the course phsyically based simulation in computer 
       <td style="text-align:left">4</td>
       <td style="text-align:left">Created scenes for milestone presentation</td>
     </tr>
+    <tr>
+      <td style="text-align:left">18.11.2020</td>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">Milestones Presentation</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">21.11.2020</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Rendering scenes</td>
+    </tr>
   </tbody>
 </table>
 
