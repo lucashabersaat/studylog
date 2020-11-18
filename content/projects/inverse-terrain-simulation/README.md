@@ -53,6 +53,20 @@ The project currently consists of roughly three phases.
         <p>-&gt; Clue: must be something when boundary is receiver.</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">16.11.2020</td>
+      <td style="text-align:left">8h</td>
+      <td style="text-align:left">Found out, that double not precise enough</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">18.11.2020</td>
+      <td style="text-align:left">4.25h</td>
+      <td style="text-align:left">
+        <p>Fixing gradients for z(..)</p>
+        <p>grads wrt. k and z don&apos;t work yet</p>
+        <p>might be epsilon?</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
