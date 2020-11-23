@@ -67,6 +67,14 @@ The project currently consists of roughly three phases.
         <p>might be epsilon?</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">23.11.2020</td>
+      <td style="text-align:left">7</td>
+      <td style="text-align:left">
+        <p>Fixing gradient for z, k stlil buggy,</p>
+        <p>started optimization</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
