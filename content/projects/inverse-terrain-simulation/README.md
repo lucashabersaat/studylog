@@ -14,6 +14,10 @@ The project currently consists of roughly three phases.
 2. finish optimization
 3. neural network
 
+## references
+
+* [Optimization & LBFGS](http://apmonitor.com/me575/index.php/Main/BookChapters)
+
 ## optimization
 
 ### tensorboard
