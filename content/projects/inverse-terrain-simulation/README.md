@@ -14,6 +14,12 @@ The project currently consists of roughly three phases.
 2. finish optimization
 3. neural network
 
+## optimization
+
+### tensorboard
+
+To start tensorboard: `tensorboard --logdir [path/to/runs]`
+
 ## time tracking
 
 <table>
