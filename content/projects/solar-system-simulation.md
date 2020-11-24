@@ -94,6 +94,16 @@ description: The project for the course phsyically based simulation in computer 
       <td style="text-align:left"></td>
       <td style="text-align:left">Rendering scenes</td>
     </tr>
+    <tr>
+      <td style="text-align:left">23.11.2020</td>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">Fracture math</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">24.11.2020</td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">Fracture structure and math</td>
+    </tr>
   </tbody>
 </table>
 
