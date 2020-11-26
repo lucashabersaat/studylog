@@ -8,6 +8,8 @@ description: The project for the course phsyically based simulation in computer 
 
 ## resources
 
+* [Brittle Fracture](http://graphics.berkeley.edu/papers/Obrien-GMA-1999-08/Obrien-GMA-1999-08.pdf)
+* 
 {% embed url="https://gitlab.ethz.ch/halucas/pbs20\_solarsystem" caption="Repository" %}
 
 
