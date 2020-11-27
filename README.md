@@ -48,6 +48,7 @@ Links to all the pages ordered.
   * [material](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/material.md) \(new\)
   * [quarkus](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/technilogies/quarkus.md) \(new\)
   * [django](content/technologies/web-frameworks/django.md)
+  * [keycloak](content/technologies/web-frameworks/keycloak.md) \(security\) \(new\)
 * databases
   * [sql](content/technologies/databases/sql.md)
   * [postgresql](content/technologies/databases/postgresql.md)
