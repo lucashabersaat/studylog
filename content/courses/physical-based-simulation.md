@@ -1,38 +1,21 @@
 ---
-description: Course taken in autumn 2020 at ETH
+description: Course taken in autumn 2020 at ETH.
 ---
 
 # physical based simulations in computer graphics
 
-## resources
-
-* Course Page: [https://moodle-app2.let.ethz.ch/course/view.php?id=13417](https://moodle-app2.let.ethz.ch/course/view.php?id=13417)
-* [https://jdickinsongames.wordpress.com/2015/01/22/numerical-integration-in-games-development-2/](https://jdickinsongames.wordpress.com/2015/01/22/numerical-integration-in-games-development-2/)
-* Some good introductions \(like quaternions\): 3blue1brown
-* God damn, neidisch: [https://eater.net/](https://eater.net/)
-* Quaterions:
-  * [https://www.youtube.com/watch?v=zjMuIxRvygQ](https://www.youtube.com/watch?v=zjMuIxRvygQ])
-  * [https://eater.net/quaternions](https://eater.net/quaternions)
-* Basic Physics
-  * [https://physics.info/](https://physics.info/)
-* Applied Partial Differential Equations: [https://www.springer.com/de/book/9783319124926](https://www.springer.com/de/book/9783319124926)
-* Impulse Collision Respons: [https://www.cs.cmu.edu/%7Ebaraff/sigcourse/notesd2.pdf](https://www.cs.cmu.edu/%7Ebaraff/sigcourse/notesd2.pdf)
-* Fluid something: Eugene Karthoyanski or so
-
 ## course consists for me of
 
-* todo list in sorted^3
+* todo list in Sorted$$^3$$ 
+* [moodle website](https://moodle-app2.let.ethz.ch/course/view.php?id=13417)
 * online lectures on zoom
 * exercises with a framework \(first half semester\)
+  * [framework repository](https://gitlab.ethz.ch/cglsim/pbs20)
 * mini project \(second half of semester\)
+  * [project repository](https://gitlab.ethz.ch/halucas/pbs20_solarsystem)
 * concept examples, in unity? houdini?
 * handwritten notes \(made during learning phase\)
 * written exam \(at end of learning phase\)
-
-## files
-
-* repository of framework on gitlab for exercises
-* course folder on drive and later in archive
 
 ## lecture
 
@@ -47,10 +30,6 @@ description: Course taken in autumn 2020 at ETH
 9. Fluid Simulation III \(FLIP, Boundaries\)
 10. Fluid Simulation IV \(Advanced\)
 
-{% page-ref page="physical-based-simulation.md" %}
-
-{% file src="../../.gitbook/assets/01\_courseoverview\_pbs20.pdf" caption="Course Overview" %}
-
 ## exercises
 
 1. Dummy Project
@@ -58,6 +37,21 @@ description: Course taken in autumn 2020 at ETH
 3. Rigid Bodies: Collision Response, Broad & Narrow Collision Detection
 4. Fluid
 5. Soft Body
+
+## references
+
+* [Course Page](https://moodle-app2.let.ethz.ch/course/view.php?id=13417)
+* [https://jdickinsongames.wordpress.com/2015/01/22/numerical-integration-in-games-development-2/](https://jdickinsongames.wordpress.com/2015/01/22/numerical-integration-in-games-development-2/)
+* Some good introductions \(like quaternions\): 3blue1brown
+* God damn, neidisch: [https://eater.net/](https://eater.net/)
+* Quaternions:
+  * [https://www.youtube.com/watch?v=zjMuIxRvygQ](https://www.youtube.com/watch?v=zjMuIxRvygQ])
+  * [https://eater.net/quaternions](https://eater.net/quaternions)
+* Basic Physics
+  * [https://physics.info/](https://physics.info/)
+* Applied Partial Differential Equations: [https://www.springer.com/de/book/9783319124926](https://www.springer.com/de/book/9783319124926)
+* Impulse Collision Respons: [https://www.cs.cmu.edu/%7Ebaraff/sigcourse/notesd2.pdf](https://www.cs.cmu.edu/%7Ebaraff/sigcourse/notesd2.pdf)
+* Fluid something: Eugene Karthoyanski or so
 
 ## log
 
@@ -72,4 +66,10 @@ I am very ambitious and I don't want the graphics drama to repeat, where I wante
 To further improve the process I started this log. Just to think and analyse problems.
 
 I want to do more in this course, but experience says that I will need maximum time to do the minimum, next to all my other projects. I probably need to focus more on one and finish that... For now, doing the exercises and thoroughly understanding them will do the job. An additional thing is looking for resources and linking them here.
+
+### 1.12.2020
+
+Starting to think about how to properly study this stuff. It's not that much. The course is only 5 credits. Yet, the matter is not easy at all. There are some concepts and math parts that really are hard to intuitively understand. I also think that some of the slides are not sooo good, because they skip some basic explanations, or just do not have enough information on it. I will definitely work with the recorded lectures. But, this will probably take too much time. I need to make an estimation of time effort for watching all of them again and taking notes.
+
+There are 11 lectures, lasting 90 minutes atmost. For taking notes, I think I need to double that, just to be sure. Resulting in 33 hours or 4 days working 8h. Does not even sound so bad. Realistically it needs even more days, as I will not work 8h per day. But one week for note taking. One week buffer, code and exercises. Sounds good. I can do that.
 
