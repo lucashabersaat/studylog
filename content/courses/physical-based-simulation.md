@@ -51,7 +51,9 @@ description: Course taken in autumn 2020 at ETH.
   * [https://physics.info/](https://physics.info/)
 * Applied Partial Differential Equations: [https://www.springer.com/de/book/9783319124926](https://www.springer.com/de/book/9783319124926)
 * Impulse Collision Respons: [https://www.cs.cmu.edu/%7Ebaraff/sigcourse/notesd2.pdf](https://www.cs.cmu.edu/%7Ebaraff/sigcourse/notesd2.pdf)
-* Fluid something: Eugene Karthoyanski or so
+* Fluids:
+  * [https://www.karlsims.com/fluid-flow.html](https://www.karlsims.com/fluid-flow.html)
+  * Eugene Karthoyanski or so
 
 ## log
 
