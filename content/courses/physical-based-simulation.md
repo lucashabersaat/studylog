@@ -28,7 +28,7 @@ description: Course taken in autumn 2020 at ETH.
 7. Deformable Objects II \(Shells and Rods\)
 8. Fluid Simulation II \(SPH\)
 9. Fluid Simulation III \(FLIP, Boundaries\)
-10. Fluid Simulation IV \(Advanced\)
+10. Fluid Simulation IV \(Advanced\) \(not exam relevant\)
 
 ## exercises
 
