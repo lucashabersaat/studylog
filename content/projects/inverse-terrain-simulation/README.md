@@ -85,6 +85,11 @@ To start tensorboard: `tensorboard --logdir [path/to/runs]`
         <p>started optimization</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">30.11.2020</td>
+      <td style="text-align:left">7</td>
+      <td style="text-align:left">Fixing dz/dk, not much more</td>
+    </tr>
   </tbody>
 </table>
 

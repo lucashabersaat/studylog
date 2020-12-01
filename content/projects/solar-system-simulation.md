@@ -106,6 +106,11 @@ description: The project for the course phsyically based simulation in computer 
       <td style="text-align:left">3</td>
       <td style="text-align:left">Fracture structure and math</td>
     </tr>
+    <tr>
+      <td style="text-align:left">29.11.2020</td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">Fast Multipole continued</td>
+    </tr>
   </tbody>
 </table>
 
