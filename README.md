@@ -92,7 +92,7 @@ Links to all the pages ordered.
 ### unsorted
 
 * [gradle](content/technologies/gradle.md)
-* git
+* [git](content/technologies/devops/git-1.md)
 * [lightning](content/technologies/lightning.md) \(new\)
 
 ## overview

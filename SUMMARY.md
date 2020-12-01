@@ -29,6 +29,7 @@
     * [sqlite](content/technologies/databases/sqlite.md)
     * [postgresql](content/technologies/databases/postgresql.md)
   * [devops](content/technologies/devops/README.md)
+    * [git](content/technologies/devops/git-1.md)
     * [openshift](content/technologies/devops/openshift.md)
     * [docker](content/technologies/devops/docker.md)
     * [jenkins](content/technologies/devops/jenkins.md)
