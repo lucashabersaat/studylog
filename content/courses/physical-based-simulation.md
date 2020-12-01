@@ -41,7 +41,16 @@ description: Course taken in autumn 2020 at ETH
 3. Rigid Bodies I \(Basics & Collision Response\)
 4. Rigid Bodies II \(Collision Detection\)
 5. Fluid I
-6. 
+6. Deformable Objects I \(MSS, FEM\)
+7. Deformable Objects II \(Shells and Rods\)
+8. Fluid Simulation II \(SPH\)
+9. Fluid Simulation III \(FLIP, Boundaries\)
+10. Fluid Simulation IV \(Advanced\)
+
+{% page-ref page="physical-based-simulation.md" %}
+
+{% file src="../../.gitbook/assets/01\_courseoverview\_pbs20.pdf" caption="Course Overview" %}
+
 ## exercises
 
 1. Dummy Project
