@@ -111,6 +111,14 @@ description: The project for the course phsyically based simulation in computer 
       <td style="text-align:left">3</td>
       <td style="text-align:left">Fast Multipole continued</td>
     </tr>
+    <tr>
+      <td style="text-align:left">1.12.2020</td>
+      <td style="text-align:left">5</td>
+      <td style="text-align:left">
+        <p>Debug Fast Multipole,</p>
+        <p>export in framework/import in blender</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
