@@ -9,7 +9,10 @@ description: The project for the course phsyically based simulation in computer 
 ## resources
 
 * [Brittle Fracture](http://graphics.berkeley.edu/papers/Obrien-GMA-1999-08/Obrien-GMA-1999-08.pdf)
-* 
+* Fast Multipole
+  * Wikipedia
+  * [Javascript Implementation](https://github.com/davidson16807/fast-multipole-method/blob/master/fast-multipole-method-optimized.js)
+
 {% embed url="https://gitlab.ethz.ch/halucas/pbs20\_solarsystem" caption="Repository" %}
 
 
@@ -119,10 +122,16 @@ description: The project for the course phsyically based simulation in computer 
         <p>export in framework/import in blender</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">2.12.2020</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Debug Fast Multipole</td>
+    </tr>
   </tbody>
 </table>
 
 ## log
 
 * 27.10.2020: project started, worked till 22:00, Tamara can be very critical, that's nice
+* 2.12.2020: after milestone presentation we dropped fracture, as it is too much and instead implement a faster gravitational loop, to be able to simulate thousands of objects for some nice n-body simulations.
 
