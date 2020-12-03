@@ -21,5 +21,9 @@ description: An opensource software for distributed version control.
 
 ### setup SSH
 
+## unsorted
 
+### protected branches
+
+Branches declared as protected can't be force pushed on. They need to be set unprotected in the repository settings.
 
