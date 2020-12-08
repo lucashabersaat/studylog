@@ -11,7 +11,7 @@ Initialize a project with: `gradle init`. It creates following structure:
 ```text
 ├── build.gradle 
 ├── gradle 
-│ └── wrapper 
+│ ├── wrapper 
 │ ├── gradle-wrapper.jar 
 │ └── gradle-wrapper.properties 
 ├── gradlew 
