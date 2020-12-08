@@ -6,9 +6,17 @@ Gradle is a build automation tool for multi-language development.
 
 ## init
 
-Initialize a project with: `gradle init`. It creates following structure: \`\`\`├── build.gradle ├── gradle │ └── wrapper │ ├── gradle-wrapper.jar │ └── gradle-wrapper.properties ├── gradlew ├── gradlew.bat └── settings.gradle
+Initialize a project with: `gradle init`. It creates following structure: ├── build.gradle 
 
-\`\`\`
+```text
+├── gradle 
+│ └── wrapper 
+│ ├── gradle-wrapper.jar 
+│ └── gradle-wrapper.properties 
+├── gradlew 
+├── gradlew.bat 
+└── settings.gradle
+```
 
 ## log
 
