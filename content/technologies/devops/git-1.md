@@ -17,7 +17,7 @@ description: An opensource software for distributed version control.
 
 ### setup aliases
 
-To add a alias see [here](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases).
+To add a alias see the doc [here](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases).
 
 Example: `git config --global alias.st status`
 
