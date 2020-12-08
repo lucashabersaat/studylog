@@ -127,6 +127,11 @@ description: The project for the course phsyically based simulation in computer 
       <td style="text-align:left"></td>
       <td style="text-align:left">Debug Fast Multipole</td>
     </tr>
+    <tr>
+      <td style="text-align:left">8.12.2020</td>
+      <td style="text-align:left">9</td>
+      <td style="text-align:left">Normal Fast Multipole</td>
+    </tr>
   </tbody>
 </table>
 
