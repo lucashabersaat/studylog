@@ -15,8 +15,6 @@ description: The project for the course phsyically based simulation in computer 
 
 {% embed url="https://gitlab.ethz.ch/halucas/pbs20\_solarsystem" caption="Repository" %}
 
-
-
 ## time tracking
 
 <table>
@@ -131,6 +129,11 @@ description: The project for the course phsyically based simulation in computer 
       <td style="text-align:left">8.12.2020</td>
       <td style="text-align:left">9</td>
       <td style="text-align:left">Normal Fast Multipole</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">9.12.2020</td>
+      <td style="text-align:left">9</td>
+      <td style="text-align:left">Particle System</td>
     </tr>
   </tbody>
 </table>
