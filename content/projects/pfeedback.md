@@ -64,6 +64,14 @@ To run tests, execute in _/frontend_ `$ ng e2e` will run the e2e tests defined i
 
 * TSLint: `$ npm run lint`
 
+### test environment
+
+* Purpose? tests are run on it?
+* in Jenkins:
+  * Build Integration Tests
+  * Deploy Test
+  * Run Integration Tests2
+
 ## questions
 
 * where are the tests? do I need to write tests?

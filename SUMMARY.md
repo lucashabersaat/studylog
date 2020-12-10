@@ -33,6 +33,7 @@
     * [openshift](content/technologies/devops/openshift.md)
     * [docker](content/technologies/devops/docker.md)
     * [jenkins](content/technologies/devops/jenkins.md)
+  * [package managers](content/technologies/package-managers.md)
   * [lightning](content/technologies/lightning.md)
   * [ssh](content/technologies/ssh.md)
   * [regex](content/technologies/regex.md)
