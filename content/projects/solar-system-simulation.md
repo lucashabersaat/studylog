@@ -135,6 +135,26 @@ description: The project for the course phsyically based simulation in computer 
       <td style="text-align:left">9</td>
       <td style="text-align:left">Particle System</td>
     </tr>
+    <tr>
+      <td style="text-align:left">12.12.2020</td>
+      <td style="text-align:left">7.5</td>
+      <td style="text-align:left">Vicinity Methods, Scene Setup</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">13.12.2020</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">14.12.2020</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">15.12.2020</td>
+      <td style="text-align:left">4</td>
+      <td style="text-align:left">Presentation</td>
+    </tr>
   </tbody>
 </table>
 
