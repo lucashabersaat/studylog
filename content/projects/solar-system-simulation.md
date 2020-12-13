@@ -15,6 +15,14 @@ description: The project for the course phsyically based simulation in computer 
 
 {% embed url="https://gitlab.ethz.ch/halucas/pbs20\_solarsystem" caption="Repository" %}
 
+## fast multipole
+
+
+
+## threading
+
+Using the [concurrent\_unordered\_map ](https://docs.microsoft.com/en-us/cpp/parallel/concrt/parallel-containers-and-objects?view=msvc-160#unordered_map)from c++ in the FMM class instead of the `unordered_map`, the particles can be added in parellel.
+
 ## time tracking
 
 <table>
@@ -142,8 +150,8 @@ description: The project for the course phsyically based simulation in computer 
     </tr>
     <tr>
       <td style="text-align:left">13.12.2020</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">9</td>
+      <td style="text-align:left">Threading, Presentation, New Scenes</td>
     </tr>
     <tr>
       <td style="text-align:left">14.12.2020</td>
