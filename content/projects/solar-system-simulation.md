@@ -155,13 +155,18 @@ Using the [concurrent\_unordered\_map ](https://docs.microsoft.com/en-us/cpp/par
     </tr>
     <tr>
       <td style="text-align:left">14.12.2020</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">7</td>
+      <td style="text-align:left">Finish Presentation, Debug Grid, More Scenes</td>
     </tr>
     <tr>
       <td style="text-align:left">15.12.2020</td>
       <td style="text-align:left">4</td>
       <td style="text-align:left">Presentation</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Sum</td>
+      <td style="text-align:left">~90h</td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
