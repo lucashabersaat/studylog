@@ -20,6 +20,10 @@ The project currently consists of roughly three phases.
 
 ## optimization
 
+### history graph
+
+An issue arose when calling `backward()` the second time. Some tensor's history contained computations of earlier iterations, but of which the graph was already freed. Make sure all involved tensors have a clean history on each iteration.
+
 ### tensorboard
 
 To start tensorboard: `tensorboard --logdir [path/to/runs]`
