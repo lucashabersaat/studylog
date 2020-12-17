@@ -94,6 +94,11 @@ To start tensorboard: `tensorboard --logdir [path/to/runs]`
       <td style="text-align:left">7</td>
       <td style="text-align:left">Fixing dz/dk, not much more</td>
     </tr>
+    <tr>
+      <td style="text-align:left">16.12.2020</td>
+      <td style="text-align:left">6</td>
+      <td style="text-align:left">Fix optimization</td>
+    </tr>
   </tbody>
 </table>
 
