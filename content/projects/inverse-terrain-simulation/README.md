@@ -4,7 +4,7 @@ description: Bachelor's Thesis and semster project.
 
 # inverse terrain simulation
 
-`studies` `bachelor's thesis` `semester project`
+`studies` `bachelor's thesis` `semester project` `python` `simulation`
 
 ## outline
 

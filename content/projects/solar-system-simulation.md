@@ -4,22 +4,33 @@ description: The project for the course phsyically based simulation in computer 
 
 # solar system simulation
 
-`studies` `c++`
+`studies` `c++` `computer graphics` `simulation`
 
-## resources
+## overview
 
+For the master course Physically based Simulation in Computer Graphics, a group project is done with a topic of free choosing. Together with _Tamara Gini_ and _Tatiana Gerth_, we chose to to a rigid body simulation with gravitational forces and later implement fracture. After feedback of the assistants, we dropped fracture, as it's not feasible for the time given, and did a **Fast N-Body Simulation** instead.
+
+Using the **Fast Multipole** method, we reduced complexity of the force computation between each pair of bodies from `O(n²)` to `O(nlogn)` and setup some scenes with high number of bodies up until 100k that run in reasonable time periods.
+
+### result
+
+_todo_
+
+## references
+
+* [Repository](https://gitlab.ethz.ch/halucas/pbs20_solarsystem)
 * [Brittle Fracture](http://graphics.berkeley.edu/papers/Obrien-GMA-1999-08/Obrien-GMA-1999-08.pdf)
 * Fast Multipole
   * Wikipedia
   * [Javascript Implementation](https://github.com/davidson16807/fast-multipole-method/blob/master/fast-multipole-method-optimized.js)
 
-{% embed url="https://gitlab.ethz.ch/halucas/pbs20\_solarsystem" caption="Repository" %}
+## features
 
-## fast multipole
+### fast multipole
 
+_todo_
 
-
-## threading
+### threading
 
 Using the [concurrent\_unordered\_map ](https://docs.microsoft.com/en-us/cpp/parallel/concrt/parallel-containers-and-objects?view=msvc-160#unordered_map)from c++ in the FMM class instead of the `unordered_map`, the particles can be added in parellel.
 
@@ -102,7 +113,7 @@ Using the [concurrent\_unordered\_map ](https://docs.microsoft.com/en-us/cpp/par
     </tr>
     <tr>
       <td style="text-align:left">21.11.2020</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">?</td>
       <td style="text-align:left">Rendering scenes</td>
     </tr>
     <tr>
@@ -130,7 +141,7 @@ Using the [concurrent\_unordered\_map ](https://docs.microsoft.com/en-us/cpp/par
     </tr>
     <tr>
       <td style="text-align:left">2.12.2020</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">?</td>
       <td style="text-align:left">Debug Fast Multipole</td>
     </tr>
     <tr>
@@ -164,15 +175,12 @@ Using the [concurrent\_unordered\_map ](https://docs.microsoft.com/en-us/cpp/par
       <td style="text-align:left">Presentation</td>
     </tr>
     <tr>
-      <td style="text-align:left">Sum</td>
+      <td style="text-align:left">Total</td>
       <td style="text-align:left">~90h</td>
       <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
 
-## log
 
-* 27.10.2020: project started, worked till 22:00, Tamara can be very critical, that's nice
-* 2.12.2020: after milestone presentation we dropped fracture, as it is too much and instead implement a faster gravitational loop, to be able to simulate thousands of objects for some nice n-body simulations.
 
