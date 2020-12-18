@@ -1,4 +1,4 @@
-# my server on serverbase
+# vps
 
 IP: 185.16.174.75
 

@@ -96,7 +96,7 @@ Links to all the pages ordered.
 * [git](content/technologies/devops/git-1.md)
 * [lightning](content/technologies/lightning.md) \(new\)
 
-## overview
+## stages
 
 Overview of what i have learned so far and where.
 

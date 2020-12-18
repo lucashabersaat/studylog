@@ -25,6 +25,13 @@ Example: `git config --global alias.st status`
 
 ### setup SSH
 
+## generate & add ssh key
+
+1. [Generate Key](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+2. Add the public key to github
+
+
+
 ## unsorted
 
 ### protected branches

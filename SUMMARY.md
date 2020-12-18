@@ -51,7 +51,7 @@
   * [voxiety](content/projects/voxiety.md)
   * [lightning atm](content/projects/lightning-atm.md)
   * [pfeedback](content/projects/pfeedback.md)
-  * [my server on serverbase](content/projects/server_base.md)
+  * [vps](content/projects/server_base.md)
   * [cryptopus](content/projects/cryptopus.md)
   * [gässli](content/projects/gaessli.md)
   * [questhub](content/projects/questhub.md)
