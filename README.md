@@ -42,12 +42,13 @@ Links to all the pages ordered.
 * frameworks
   * [ruby on rails](content/technologies/web-frameworks/ruby_on_rails.md)
   * [emberjs](content/technologies/web-frameworks/emberjs.md)
-  * [spring](content/technologies/web-frameworks/spring.md) \(new\)
-  * [angular](content/technologies/web-frameworks/angular.md) \(new\)
+  * [spring](content/technologies/web-frameworks/spring.md)
+  * [angular](content/technologies/web-frameworks/angular.md)
   * [bootstrap](content/technologies/bootstrap.md)
-  * [material](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/material.md) \(new\)
-  * [quarkus](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/technilogies/quarkus.md) \(new\)
+  * [material](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/material.md)
+  * [quarkus](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/technilogies/quarkus.md)
   * [django](content/technologies/web-frameworks/django.md)
+  * [flask](content/technologies/web-frameworks/flask.md)
   * [keycloak](content/technologies/web-frameworks/keycloak.md) \(security\) \(new\)
 * databases
   * [sql](content/technologies/databases/sql.md)
@@ -131,7 +132,7 @@ Overview of what i have learned so far and where.
 
 * computer graphics
 * advanced machine learning
-* physical simulation \(_wip_\)
+* physical based simulation `c++` \(_wip_\)
 * _wip_
 
 ### gässli & wotschit
@@ -157,6 +158,7 @@ Overview of what i have learned so far and where.
 * [pfeedback](content/projects/pfeedback.md)
 * [server\_base](content/projects/server_base.md)
 * [questhub](content/projects/questhub.md)
+* [n-body simulation](content/projects/solar-system-simulation.md)
 
 ## log
 
@@ -165,4 +167,5 @@ Beginning from 4.8.2020, log of new learned stuff.
 * August 2020: learning java spring, material, angular, docker, jenkins
 * September 2020: introduction into bitcoin & lightning
 * 2. October 2020: integrated studylog into gitbook
+* 18. December 2020: Though I like gitbook, I want this data somehow more in my control. On my own server in my cellar is the desired state. For now, I need to be happy like this, or find another tool.
 
