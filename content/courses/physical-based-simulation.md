@@ -8,10 +8,10 @@ description: Course taken in autumn 2020 at ETH.
 
 * todo list in Sorted$$^3$$ 
 * [moodle website](https://moodle-app2.let.ethz.ch/course/view.php?id=13417)
-* online lectures on zoom
+* ~~online lectures on zoom~~
 * exercises with a framework \(first half semester\)
 * [framework repository](https://gitlab.ethz.ch/cglsim/pbs20)
-*  mini project \(second half of semester\)
+*  ~~mini project \(second half of semester\)~~
   * [project repository](https://gitlab.ethz.ch/halucas/pbs20_solarsystem)
 * handwritten notes \(made during learning phase\)
 * written exam \(at end of learning phase\)
@@ -39,7 +39,8 @@ description: Course taken in autumn 2020 at ETH.
 
 ## references
 
-* [Course Page](https://moodle-app2.let.ethz.ch/course/view.php?id=13417)
+* **Official**
+  * [Course Page](https://moodle-app2.let.ethz.ch/course/view.php?id=13417)
 * [https://jdickinsongames.wordpress.com/2015/01/22/numerical-integration-in-games-development-2/](https://jdickinsongames.wordpress.com/2015/01/22/numerical-integration-in-games-development-2/)
 * Some good introductions \(like quaternions\): 3blue1brown
 * God damn, neidisch: [https://eater.net/](https://eater.net/)
@@ -50,11 +51,15 @@ description: Course taken in autumn 2020 at ETH.
   * [https://physics.info/](https://physics.info/)
 * Applied Partial Differential Equations: [https://www.springer.com/de/book/9783319124926](https://www.springer.com/de/book/9783319124926)
 * Impulse Collision Respons: [https://www.cs.cmu.edu/%7Ebaraff/sigcourse/notesd2.pdf](https://www.cs.cmu.edu/%7Ebaraff/sigcourse/notesd2.pdf)
-* Fluids:
+* **Fluids**
   * [https://www.karlsims.com/fluid-flow.html](https://www.karlsims.com/fluid-flow.html)
   * Eugene Karthoyanski or so
 
 ## time tracking
+
+| Date | Hours | Worked on |
+| :--- | :--- | :--- |
+| 20.12.2020 | 3h | Notes Time Integration |
 
 ## log
 
