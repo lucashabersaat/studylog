@@ -18,16 +18,16 @@ description: Course taken in autumn 2020 at ETH.
 
 ## lecture
 
-1. Introduction
-2. Time integration
-3. Rigid Bodies I \(Basics & Collision Response\)
-4. Rigid Bodies II \(Collision Detection\)
-5. Fluid I
-6. Deformable Objects I \(MSS, FEM\)
-7. Deformable Objects II \(Shells and Rods\)
-8. Fluid Simulation II \(SPH\)
-9. Fluid Simulation III \(FLIP, Boundaries\)
-10. Fluid Simulation IV \(Advanced\) \(not exam relevant\)
+1. [x] Introduction
+2. [ ] Time integration
+3. [ ] Rigid Bodies I \(Basics & Collision Response\)
+4. [ ] Rigid Bodies II \(Collision Detection\)
+5. [ ] Fluid I
+6. [ ] Deformable Objects I \(MSS, FEM\)
+7. [ ] Deformable Objects II \(Shells and Rods\)
+8. [ ] Fluid Simulation II \(SPH\)
+9. [ ] Fluid Simulation III \(FLIP, Boundaries\)
+10. [ ] Fluid Simulation IV \(Advanced\) \(not exam relevant\)
 
 ## exercises
 
@@ -53,6 +53,8 @@ description: Course taken in autumn 2020 at ETH.
 * Fluids:
   * [https://www.karlsims.com/fluid-flow.html](https://www.karlsims.com/fluid-flow.html)
   * Eugene Karthoyanski or so
+
+## time tracking
 
 ## log
 
