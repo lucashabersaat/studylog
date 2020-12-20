@@ -12,7 +12,7 @@ For the master course Physically based Simulation in Computer Graphics, a group 
 
 Using the **Fast Multipole** method, we reduced complexity of the force computation between each pair of bodies from `O(n²)` to `O(nlogn)` and setup some scenes with high number of bodies up until 100k that run in reasonable time periods.
 
-### result
+## result
 
 _todo_
 

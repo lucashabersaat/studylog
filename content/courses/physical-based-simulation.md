@@ -10,10 +10,9 @@ description: Course taken in autumn 2020 at ETH.
 * [moodle website](https://moodle-app2.let.ethz.ch/course/view.php?id=13417)
 * online lectures on zoom
 * exercises with a framework \(first half semester\)
-  * [framework repository](https://gitlab.ethz.ch/cglsim/pbs20)
-* mini project \(second half of semester\)
+* [framework repository](https://gitlab.ethz.ch/cglsim/pbs20)
+*  mini project \(second half of semester\)
   * [project repository](https://gitlab.ethz.ch/halucas/pbs20_solarsystem)
-* concept examples, in unity? houdini?
 * handwritten notes \(made during learning phase\)
 * written exam \(at end of learning phase\)
 
@@ -75,7 +74,7 @@ Starting to think about how to properly study this stuff. It's not that much. Th
 
 There are 11 lectures, lasting 90 minutes atmost. For taking notes, I think I need to double that, just to be sure. Resulting in 33 hours or 4 days working 8h. Does not even sound so bad. Realistically it needs even more days, as I will not work 8h per day. But one week for note taking. One week buffer, code and exercises. Sounds good. I can do that.
 
-I think I will already start in December, just because I have time then. Trying out to really study in advance and before the actual exam, just repeating some of the stuff. Or no. I split the weeks and I will do the second week just before the exam. Like this, I can really take advantage of my notes. I should be able to remeber. Maybe add some smaller repetitions in between? Yes, that's the plan. Let's summarize.
+I think I will already start in December, just because I have time then. Trying out to really study in advance and before the actual exam, just repeating some of the stuff. Or no. I split the weeks and I will do the second week just before the exam. Like this, I can really take advantage of my notes. I should be able to remeMber. Maybe add some smaller repetitions in between? Yes, that's the plan. Let's summarize.
 
 1. Watch lectures and make notes during one week at beginning of learning phase
 2. Repeat regularly
