@@ -20,7 +20,7 @@ description: Course taken in autumn 2020 at ETH.
 
 1. [x] Introduction
 2. [x] Time integration
-3. [ ] Rigid Bodies I \(Basics & Collision Response\)
+3. [x] Rigid Bodies I \(Basics & Collision Response\)
 4. [ ] Rigid Bodies II \(Collision Detection\)
 5. [ ] Fluid I
 6. [ ] Deformable Objects I \(MSS, FEM\)
