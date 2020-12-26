@@ -55,6 +55,7 @@
   * [cryptopus](content/projects/cryptopus.md)
   * [gässli](content/projects/gaessli.md)
   * [questhub](content/projects/questhub.md)
+  * [finished projects](content/projects/finished-projects.md)
 * [courses](content/courses/README.md)
   * [physical based simulations in computer graphics](content/courses/physical-based-simulation.md)
 

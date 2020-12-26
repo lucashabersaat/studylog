@@ -12,27 +12,40 @@ For the master course Physically based Simulation in Computer Graphics, a group 
 
 Using the **Fast Multipole** method, we reduced complexity of the force computation between each pair of bodies from `O(n²)` to `O(nlogn)` and setup some scenes with high number of bodies up until 100k that run in reasonable time periods.
 
-## result
+## results
 
-_todo_
+{% embed url="https://youtu.be/LxMkQrrm-Qo" %}
+
+
+
+{% embed url="https://youtu.be/K81wWVeAmuk" %}
+
+
+
+![Colliding Galaxies](../../.gitbook/assets/colliding_galaxies_3x_opt.gif)
+
+See more results/videos and the presentation in the repository in the docs/final\_presentation folder.
 
 ## references
 
 * [Repository](https://gitlab.ethz.ch/halucas/pbs20_solarsystem)
-* [Brittle Fracture](http://graphics.berkeley.edu/papers/Obrien-GMA-1999-08/Obrien-GMA-1999-08.pdf)
+* [Exercise Repository](https://gitlab.ethz.ch/cglsim/pbs20)
 * Fast Multipole
-  * Wikipedia
   * [Javascript Implementation](https://github.com/davidson16807/fast-multipole-method/blob/master/fast-multipole-method-optimized.js)
 
 ## features
 
 ### fast multipole
 
-_todo_
+The Fast Multipole Method is an approximation using a multi-level grid. In a first step, for each body and level, the force the body exerts on cells in its vicinity is computed and added onto the cell. Like this the grid and its cells are filled with force shares. In the second step, for each body and level, the force of the cell, the body resides in, is applied on it. A great explanation is found [here](https://github.com/davidson16807/fast-multipole-method).
+
+The complexity of computing the forces between each pair of bodies is for a naive algorithm `O(n²)`. This approximation reduces it to `O(nlogn)`, which in particular for large numbers of bodies \(from about 10k on\) is a great speedup.
 
 ### threading
 
 Using the [concurrent\_unordered\_map ](https://docs.microsoft.com/en-us/cpp/parallel/concrt/parallel-containers-and-objects?view=msvc-160#unordered_map)from c++ in the FMM class instead of the `unordered_map`, the particles can be added in parellel.
+
+### other features not listed
 
 ## time tracking
 
@@ -176,7 +189,7 @@ Using the [concurrent\_unordered\_map ](https://docs.microsoft.com/en-us/cpp/par
     </tr>
     <tr>
       <td style="text-align:left">Total</td>
-      <td style="text-align:left">~90h</td>
+      <td style="text-align:left">~90</td>
       <td style="text-align:left"></td>
     </tr>
   </tbody>
