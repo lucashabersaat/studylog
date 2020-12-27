@@ -99,6 +99,19 @@ To start tensorboard: `tensorboard --logdir [path/to/runs]`
       <td style="text-align:left">6</td>
       <td style="text-align:left">Fix optimization</td>
     </tr>
+    <tr>
+      <td style="text-align:left">?</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">27.12.2020</td>
+      <td style="text-align:left">5</td>
+      <td style="text-align:left">
+        <p>Read Optimization book,</p>
+        <p>debugging lake issue</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
