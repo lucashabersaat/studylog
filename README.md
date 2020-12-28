@@ -146,7 +146,7 @@ Overview of what i have learned so far and where.
 * testing: `rspec` `capybara` `jasmine` `protractor`
 * version control: `git`
 * further strengthened: `html` `css` `js` `sql`
-* only touched upon: `coffeescript` `haml` `quarkus`
+* only touched upon: `coffeescript` `quarkus`
 * currently learning: `spring` `docker` `jenkins` `openshift` `lightning`
 
 ## projects
