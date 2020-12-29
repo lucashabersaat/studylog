@@ -29,12 +29,6 @@ description: The web tools for the event Gässli Film Festival in Basel.
 * 2020: Restart & Call for Entries
 * nächstes Meeting: 29.12, 10:00 \(ganz tag schaffe\)
 
-### 29.12.2020
-
-
-
-
-
 ## Bigger Picture \(aufräumen\)
 
 * Personen DB aufäumen
