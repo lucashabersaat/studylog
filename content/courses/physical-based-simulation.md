@@ -13,6 +13,7 @@ description: Course taken in autumn 2020 at ETH.
 * [framework repository](https://gitlab.ethz.ch/cglsim/pbs20)
 *  ~~mini project \(second half of semester\)~~
   * [project repository](https://gitlab.ethz.ch/halucas/pbs20_solarsystem)
+  * [project page](../projects/finished-projects/solar-system-simulation.md)
 * handwritten notes \(made during learning phase\)
 * written exam \(at end of learning phase\)
 
@@ -21,13 +22,12 @@ description: Course taken in autumn 2020 at ETH.
 1. [x] Introduction
 2. [x] Time integration
 3. [x] Rigid Bodies I \(Basics & Collision Response\)
-4. [ ] Rigid Bodies II \(Collision Detection\)
+4. [x] Rigid Bodies II \(Collision Detection\)
 5. [ ] Fluid I
 6. [ ] Deformable Objects I \(MSS, FEM\)
 7. [ ] Deformable Objects II \(Shells and Rods\)
 8. [ ] Fluid Simulation II \(SPH\)
 9. [ ] Fluid Simulation III \(FLIP, Boundaries\)
-10. [ ] Fluid Simulation IV \(Advanced\) \(not exam relevant\)
 
 ## exercises
 
