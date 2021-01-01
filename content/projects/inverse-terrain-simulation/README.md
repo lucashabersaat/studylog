@@ -112,6 +112,14 @@ To start tensorboard: `tensorboard --logdir [path/to/runs]`
         <p>debugging lake issue</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">1.1.2021</td>
+      <td style="text-align:left">3.5</td>
+      <td style="text-align:left">
+        <p>Read Optimization book,</p>
+        <p>debug</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 
