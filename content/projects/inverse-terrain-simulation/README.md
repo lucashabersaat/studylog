@@ -120,6 +120,11 @@ To start tensorboard: `tensorboard --logdir [path/to/runs]`
         <p>debug</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">4.1.2021</td>
+      <td style="text-align:left">6</td>
+      <td style="text-align:left">Isolated Optimization</td>
+    </tr>
   </tbody>
 </table>
 
