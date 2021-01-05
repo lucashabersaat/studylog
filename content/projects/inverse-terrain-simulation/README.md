@@ -12,7 +12,7 @@ The project currently consists of roughly three phases.
 
 1. fixing the gradients
 2. finish optimization
-3. neural network
+3. ~~neural network~~
 
 ## references
 
@@ -124,6 +124,14 @@ To start tensorboard: `tensorboard --logdir [path/to/runs]`
       <td style="text-align:left">4.1.2021</td>
       <td style="text-align:left">6</td>
       <td style="text-align:left">Isolated Optimization</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">5.1.2021</td>
+      <td style="text-align:left">6.5</td>
+      <td style="text-align:left">
+        <p>Fix forward,</p>
+        <p>Isolated k map</p>
+      </td>
     </tr>
   </tbody>
 </table>
