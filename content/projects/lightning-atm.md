@@ -63,6 +63,14 @@ _wip_
 
 _Tricky part is to be able to supply both raspberry and coin acceptor with one cable._
 
+## monitoring log file
+
+```text
+tail -f ~/.lightningATM/debug.log
+```
+
+
+
 ## wallet
 
 _wip_
