@@ -8,8 +8,6 @@ Essentially, we had to get all the parts and follow an excellent tutorial by **2
 
 {% embed url="https://docs.lightningatm.me/" %}
 
-
-
 ## result
 
 _wip_
