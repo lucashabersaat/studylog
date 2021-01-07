@@ -8,7 +8,7 @@ description: The project for the course phsyically based simulation in computer 
 
 ## overview
 
-For the master course Physically based Simulation in Computer Graphics, a group project is done with a topic of free choosing. Together with _Tamara Gini_ and _Tatiana Gerth_, we chose to to a rigid body simulation with gravitational forces and later implement fracture. After feedback of the assistants, we dropped fracture, as it's not feasible for the time given, and did a **Fast N-Body Simulation** instead.
+For the master course Physically based Simulation in Computer Graphics, a group project is done with a topic of free choosing. Together with _Tamara Gini_ and _Tatiana Gerth_, we chose to do a rigid body simulation with gravitational forces and later implement fracture. After feedback of the assistants, we dropped fracture, as it's not feasible for the time given, and did a **Fast N-Body Simulation** instead.
 
 Using the **Fast Multipole** method, we reduced complexity of the force computation between each pair of bodies from `O(n²)` to `O(nlogn)` and setup some scenes with high number of bodies up until 100k that run in reasonable time periods.
 
