@@ -24,6 +24,7 @@
     * [quarkus](content/technologies/web-frameworks/quarkus.md)
     * [rest api](content/technologies/web-frameworks/rest_api.md)
     * [keycloak](content/technologies/web-frameworks/keycloak.md)
+    * [thymeleaf](content/technologies/web-frameworks/thymeleaf.md)
   * [databases](content/technologies/databases/README.md)
     * [sql](content/technologies/databases/sql.md)
     * [sqlite](content/technologies/databases/sqlite.md)

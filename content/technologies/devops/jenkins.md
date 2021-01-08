@@ -1,21 +1,32 @@
+---
+description: >-
+  An open source automation server which enables to reliably build, test, and
+  deploy software.
+---
+
 # jenkins
 
-## resources
+## references
 
-* Techlab: [https://github.com/carlbalmer/jenkins-techlab](https://github.com/carlbalmer/jenkins-techlab)
-* Official: [https://www.jenkins.io/doc/](https://www.jenkins.io/doc/)
+* [Techlab](https://github.com/carlbalmer/jenkins-techlab)
+* [Official](https://www.jenkins.io/doc/)
 
-## pipelines
+## introduction
 
-* from code to users
-* in simple text file, Jenkinsfile
+In a Jenkinsfile the whole pipeline with stages is defined that shall be automatically executed at desired events or intervals.
 
-## agent
+## structure
+
+### agent
 
 Agent directive tells Jenkins in which environment to execute the pipeline.
 
 * `agent any`
 * `agent { docker { image 'node:14-alpine' } }`
+
+### stages
+
+Stages define phases of the pipeline and consist of single steps.
 
 ## puzzle best practices
 
@@ -46,8 +57,4 @@ Agent directive tells Jenkins in which environment to execute the pipeline.
       ])
   }
   ```
-
-## stages
-
-Stages define phases of the pipeline and consist of single steps.
 
