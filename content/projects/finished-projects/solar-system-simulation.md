@@ -14,13 +14,9 @@ Using the **Fast Multipole** method, we reduced complexity of the force computat
 
 ## results
 
-{% embed url="https://youtu.be/LxMkQrrm-Qo" %}
+{% embed url="https://youtu.be/LxMkQrrm-Qo" caption="100k particles" %}
 
-
-
-{% embed url="https://youtu.be/K81wWVeAmuk" %}
-
-
+{% embed url="https://youtu.be/K81wWVeAmuk" caption="Comparison of performance" %}
 
 ![Colliding Galaxies](../../../.gitbook/assets/colliding_galaxies_3x_opt.gif)
 
