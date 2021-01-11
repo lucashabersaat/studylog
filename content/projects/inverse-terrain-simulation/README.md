@@ -138,6 +138,11 @@ To start tensorboard: `tensorboard --logdir [path/to/runs]`
       <td style="text-align:left">3</td>
       <td style="text-align:left">Isolated Parameters</td>
     </tr>
+    <tr>
+      <td style="text-align:left">7.1.2021</td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
 
