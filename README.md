@@ -156,7 +156,7 @@ Overview of what i have learned so far and where.
 * [inverse terrain simulation](content/projects/inverse-terrain-simulation/)
 * [cryptopus](content/projects/paused-projects/cryptopus.md)
 * [pfeedback](content/projects/pfeedback.md) 
-* [server\_base](content/projects/server_base.md)
+* [vps](content/projects/server_base.md)
 * [questhub](content/projects/paused-projects/questhub.md)
 * [n-body simulation](content/projects/finished-projects/solar-system-simulation.md)
 
