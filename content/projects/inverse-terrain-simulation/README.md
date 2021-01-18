@@ -144,18 +144,23 @@ To start tensorboard: `tensorboard --logdir [path/to/runs]`
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">12.1.2021</td>
+      <td style="text-align:left">11.1.2021</td>
       <td style="text-align:left">6</td>
       <td style="text-align:left">Fix isolated uplift</td>
     </tr>
     <tr>
-      <td style="text-align:left">13.1.2021</td>
+      <td style="text-align:left">12.1.2021</td>
       <td style="text-align:left">8</td>
       <td style="text-align:left">Fix isolated uplift</td>
     </tr>
     <tr>
       <td style="text-align:left">17.1.2021</td>
       <td style="text-align:left">2</td>
+      <td style="text-align:left">Fix isolated parameters</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">18.1.2021</td>
+      <td style="text-align:left">6</td>
       <td style="text-align:left">Fix isolated parameters</td>
     </tr>
   </tbody>
