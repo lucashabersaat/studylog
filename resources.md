@@ -16,6 +16,3 @@ Collection of resources or links that apply either generally for IT or that gath
 
 
 
-* 
-
-
