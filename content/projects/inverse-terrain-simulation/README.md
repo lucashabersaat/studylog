@@ -163,6 +163,11 @@ To start tensorboard: `tensorboard --logdir [path/to/runs]`
       <td style="text-align:left">6</td>
       <td style="text-align:left">Fix isolated parameters</td>
     </tr>
+    <tr>
+      <td style="text-align:left">19.1.2021</td>
+      <td style="text-align:left">7</td>
+      <td style="text-align:left">Termination, Normalization</td>
+    </tr>
   </tbody>
 </table>
 
