@@ -25,9 +25,9 @@ description: Course taken in autumn 2020 at ETH.
 4. [x] Rigid Bodies II \(Collision Detection\)
 5. [x] Fluid I
 6. [x] Deformable Objects I \(MSS, FEM\)
-7. [ ] Deformable Objects II \(Shells and Rods\)
-8. [ ] Fluid Simulation II \(SPH\)
-9. [ ] Fluid Simulation III \(FLIP, Boundaries\)
+7. [x] Deformable Objects II \(Shells and Rods\)
+8. [x] Fluid Simulation II \(SPH\)
+9. [x] Fluid Simulation III \(FLIP, Boundaries\)
 
 ## exercises
 
@@ -80,4 +80,20 @@ I think I will already start in December, just because I have time then. Trying 
 1. Watch lectures and make notes during one week at beginning of learning phase
 2. Repeat regularly
 3. Repeat, do exercises, look at code during roughly one week before the actual exam.
+
+### 20.1.2021
+
+So, I am through with the **notes**, only need to fill gaps in them. Which will be the next step. After this, I will do an **Overview-Sheet**, a big picture of all chapters/keywords of the subject in a mind-map manner. Then, I will look at the example exam questions to get a sense for what is asked in the exam. Then, **identify** the hard parts and parts I need to really know and just **repeat** repeat and fill gaps and go where it hurts. Also at one point, look at the **exercises** and don't forget the **forum**.
+
+**Wed 27.1**  
+Finish note gaps  
+Overview Mind Map
+
+**Thu 28.1**  
+Exam Questions  
+Identify/Rank importance of topics
+
+**Fri 29.1 -  Tue 2.2**  
+Repeat & Repeat  
+Look at Exercises & Forum
 
