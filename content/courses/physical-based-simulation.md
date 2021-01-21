@@ -1,5 +1,5 @@
 ---
-description: Course taken in autumn 2020 at ETH.
+description: Course taken in autumn 2020 at ETH during Master studies.
 ---
 
 # physical based simulations in computer graphics
