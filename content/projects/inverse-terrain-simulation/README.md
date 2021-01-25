@@ -168,6 +168,16 @@ To start tensorboard: `tensorboard --logdir [path/to/runs]`
       <td style="text-align:left">7</td>
       <td style="text-align:left">Termination, Normalization</td>
     </tr>
+    <tr>
+      <td style="text-align:left">24.1.2021</td>
+      <td style="text-align:left">6</td>
+      <td style="text-align:left">Normalization, Fix Gradiends, Fix Optimization</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">25.1.2021</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
 
