@@ -20,6 +20,10 @@ The project currently consists of roughly three phases.
 
 ## optimization
 
+### timestep
+
+The success of the optimization heavily depends on the timestep it seems. Even though I asked twice, I still don't how. Atleast, I will aways first try to lower the timestep when debugging optimization.
+
 ### history graph
 
 An issue arose when calling `backward()` the second time. Some tensor's history contained computations of earlier iterations, but of which the graph was already freed. Make sure all involved tensors have a clean history on each iteration.
@@ -175,8 +179,8 @@ To start tensorboard: `tensorboard --logdir [path/to/runs]`
     </tr>
     <tr>
       <td style="text-align:left">25.1.2021</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">7</td>
+      <td style="text-align:left">Normlization, Fix Optimization</td>
     </tr>
   </tbody>
 </table>
