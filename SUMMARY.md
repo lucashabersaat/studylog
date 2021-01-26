@@ -64,6 +64,10 @@
   * [computational intelligence lab](content/courses/computational-intelligence-lab.md)
   * [visualization](content/courses/visualization.md)
 
+---
+
+* [tools](tools.md)
+
 ## Habits & Methods
 
 * [How to Study](habits-and-methods/how-to-study.md)
