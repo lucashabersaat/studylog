@@ -2,9 +2,9 @@
 description: Course taken in autumn 2020 at ETH during Master studies.
 ---
 
-# physical based simulations in computer graphics
+# Physical-Based Simulations in Computer Graphics
 
-## course consists for me of
+## Course consists for me of
 
 * todo list in Sorted$$^3$$ 
 * [moodle website](https://moodle-app2.let.ethz.ch/course/view.php?id=13417)
@@ -14,22 +14,22 @@ description: Course taken in autumn 2020 at ETH during Master studies.
 *  ~~mini project \(second half of semester\)~~
   * [project repository](https://gitlab.ethz.ch/halucas/pbs20_solarsystem)
   * [project page](../projects/finished-projects/solar-system-simulation.md)
-* handwritten notes \(made during learning phase\)
+* ~~handwritten notes \(made during learning phase\)~~
 * written exam \(at end of learning phase\)
 
-## lecture
+## Lecture Topics
 
-1. [x] Introduction
-2. [x] Time integration
-3. [x] Rigid Bodies I \(Basics & Collision Response\)
-4. [x] Rigid Bodies II \(Collision Detection\)
-5. [x] Fluid I
-6. [x] Deformable Objects I \(MSS, FEM\)
-7. [x] Deformable Objects II \(Shells and Rods\)
-8. [x] Fluid Simulation II \(SPH\)
-9. [x] Fluid Simulation III \(FLIP, Boundaries\)
+* Introduction
+* Time integration
+* Rigid Bodies I \(Basics & Collision Response\)
+* Rigid Bodies II \(Collision Detection\)
+* Fluid I \(Eulerian\)
+* Deformable Objects I \(MSS, FEM\)
+* Deformable Objects II \(Shells and Rods\)
+* Fluid Simulation II \(Lagrangian, SPH\)
+* Fluid Simulation III \(Hybrid, FLIP, Boundaries\)
 
-## exercises
+## Exercises
 
 1. Dummy Project
 2. Time Integration Schemes
@@ -37,7 +37,7 @@ description: Course taken in autumn 2020 at ETH during Master studies.
 4. Fluid
 5. Soft Body
 
-## references
+## References
 
 * **Official**
   * [Course Page](https://moodle-app2.let.ethz.ch/course/view.php?id=13417)

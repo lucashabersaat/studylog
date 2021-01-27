@@ -60,7 +60,7 @@
   * [finished projects](content/projects/finished-projects/README.md)
     * [solar system simulation](content/projects/finished-projects/solar-system-simulation.md)
 * [courses](content/courses/README.md)
-  * [physical based simulations in computer graphics](content/courses/physical-based-simulation.md)
+  * [Physical-Based Simulations in Computer Graphics](content/courses/physical-based-simulation.md)
   * [computational intelligence lab](content/courses/computational-intelligence-lab.md)
   * [visualization](content/courses/visualization.md)
 
