@@ -4,6 +4,12 @@ description: Course taken in autumn 2020 at ETH during Master studies.
 
 # Physical-Based Simulations in Computer Graphics
 
+## Overview?
+
+* Notes
+* Project
+* Course Folder
+
 ## Course consists for me of
 
 * todo list in Sorted$$^3$$ 
