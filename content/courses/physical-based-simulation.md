@@ -93,13 +93,13 @@ So, I am through with the **notes**, only need to fill gaps in them. Which will 
 
 **Wed 27.1**  
 Finish note gaps  
-Overview Mind Map
+Overview Mind Map  
+Identify/Rank importance of topics
 
 **Thu 28.1**  
 Exam Questions  
-Identify/Rank importance of topics
+Exercises
 
 **Fri 29.1 -  Tue 2.2**  
-Repeat & Repeat  
-Look at Exercises & Forum
+Repeat & Repeat
 
