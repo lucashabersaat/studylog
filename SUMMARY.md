@@ -59,7 +59,7 @@
     * [cryptopus](content/projects/paused-projects/cryptopus.md)
   * [finished projects](content/projects/finished-projects/README.md)
     * [solar system simulation](content/projects/finished-projects/solar-system-simulation.md)
-* [courses](content/courses/README.md)
+* [Courses](content/courses/README.md)
   * [Physical-Based Simulations in Computer Graphics](content/courses/physical-based-simulation.md)
   * [computational intelligence lab](content/courses/computational-intelligence-lab.md)
   * [visualization](content/courses/visualization.md)
@@ -67,5 +67,6 @@
 ## Habits & Methods
 
 * [How to Study](habits-and-methods/how-to-study.md)
+* [Habits](habits-and-methods/habits.md)
 * [Tools](habits-and-methods/tools.md)
 

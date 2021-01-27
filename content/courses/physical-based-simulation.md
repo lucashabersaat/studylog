@@ -7,7 +7,7 @@ description: Course taken in autumn 2020 at ETH during Master studies.
 ## Overview?
 
 * Notes
-* Project
+* [Project](../projects/finished-projects/solar-system-simulation.md)
 * Course Folder
 
 ## Course consists for me of
