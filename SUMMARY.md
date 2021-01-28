@@ -58,7 +58,7 @@
     * [voxiety](content/projects/paused-projects/voxiety.md)
     * [cryptopus](content/projects/paused-projects/cryptopus.md)
   * [finished projects](content/projects/finished-projects/README.md)
-    * [solar system simulation](content/projects/finished-projects/solar-system-simulation.md)
+    * [N-Body Gravitational Simulation](content/projects/finished-projects/solar-system-simulation.md)
 * [Courses](content/courses/README.md)
   * [Physical-Based Simulations in Computer Graphics](content/courses/physical-based-simulation.md)
   * [computational intelligence lab](content/courses/computational-intelligence-lab.md)
