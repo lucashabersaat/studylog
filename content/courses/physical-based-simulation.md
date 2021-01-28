@@ -61,6 +61,12 @@ description: Course taken in autumn 2020 at ETH during Master studies.
   * [https://www.karlsims.com/fluid-flow.html](https://www.karlsims.com/fluid-flow.html)
   * Eugene Karthoyanski or so
 
+## verdict
+
+* very very interesting topics
+* should have studies the lecture more during  semester/while doing the project
+* don't visit lecture,  if you don't really listen, wasted that time
+
 ## log
 
 ### 29.09.2020
@@ -102,4 +108,6 @@ Exercises
 
 **Fri 29.1 -  Tue 2.2**  
 Repeat & Repeat
+
+
 
