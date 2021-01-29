@@ -20,6 +20,10 @@
 + many integrations  
 -- maybe too much?
 
+## ClickUp
+
+seems THE THING
+
 ## chats
 
 ### rocket chat
