@@ -10,7 +10,7 @@ description: A feedback tool developed by Puzzle ITC.
 
 During the Puzzle internship in the second half, the BBT \(Berufsbildungs Team\), worked on a internal tool, with which one can make and request feedbacks, called Pfeedback. We were only two, actually Luca Brügger and myself\) so not so much was done. We improved several aspects, fixed many bugs. It is still not in an complete state and I believe, some bugs are left. 
 
-The following page is in particular thought as a look-up while development and not really polished.
+The following page is in particular thought as a look-up while development and not really polished and at some point, I will delete it probably.
 
 The [repository](https://gitlab.puzzle.ch/rhertle/pfeedback) is on Puzzle's own GitLab instance.
 
