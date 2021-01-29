@@ -49,15 +49,14 @@ Links to all the pages ordered.
   * [quarkus](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/technilogies/quarkus.md)
   * [django](content/technologies/web-frameworks/django.md)
   * [flask](content/technologies/web-frameworks/flask.md)
-  * [keycloak](content/technologies/web-frameworks/keycloak.md) \(security\) \(new\)
+  * [keycloak](content/technologies/web-frameworks/keycloak.md) \(security\)
 * databases
   * [sql](content/technologies/databases/sql.md)
   * [postgresql](content/technologies/databases/postgresql.md)
 
 ### principles
 
-* [rest api](content/technologies/web-frameworks/rest_api.md) \(new\)
-* devops \(new\)
+* [rest api](content/technologies/web-frameworks/rest_api.md)
 * uml
 
 ### machine learning frameworks
@@ -78,11 +77,11 @@ Links to all the pages ordered.
 * i3
 * ssh
 
-### containers
+### devops
 
-* [docker](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/docker.md) \(new\)
-* [openshift](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/openshift.md) \(new\)
-* jenkins \(new\)
+* [docker](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/docker.md)
+* [openshift](https://github.com/lucashabersaat/studylog/tree/fa64675b3c1fc8e3cf84f60154380b64723eca0e/openshift.md)
+* jenkins
 
 ### ide
 
@@ -94,7 +93,7 @@ Links to all the pages ordered.
 
 * [gradle](content/technologies/gradle.md)
 * [git](content/technologies/devops/git-1.md)
-* [lightning](content/technologies/lightning.md) \(new\)
+* [lightning](content/technologies/lightning.md)
 
 ## stages
 

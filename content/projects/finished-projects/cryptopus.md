@@ -1,5 +1,5 @@
 ---
-description: Open Source Password Manager
+description: Open Source Password Manager developed by Puzzle ITC
 ---
 
 # Cryptopus
