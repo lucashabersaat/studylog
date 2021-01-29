@@ -2,14 +2,17 @@
 description: A feedback tool developed by Puzzle ITC.
 ---
 
-# pfeedback
+# Pfeedback
 
 `web-app` `angular` `spring` 
 
-## setup development environment
+## Overview
 
-1. start frontend: in frontend folder `npm start`
-2. start backend: in intellij build & run configuration
+During the Puzzle internship in the second half, the BBT \(Berufsbildungs Team\), worked on a internal tool, with which one can make and request feedbacks, called Pfeedback. We were only two, actually Luca Brügger and myself\) so not so much was done. We improved several aspects, fixed many bugs. It is still not in an complete state and I believe, some bugs are left. 
+
+The following page is in particular thought as a look-up while development and not really polished.
+
+The [repository](https://gitlab.puzzle.ch/rhertle/pfeedback) is on Puzzle's own GitLab instance.
 
 ## openshift
 
@@ -71,11 +74,6 @@ To run tests, execute in _/frontend_ `$ ng e2e` will run the e2e tests defined i
   * Build Integration Tests
   * Deploy Test
   * Run Integration Tests2
-
-## questions
-
-* where are the tests? do I need to write tests?
-* security enabled doesn't work?
 
 ## swagger ui
 

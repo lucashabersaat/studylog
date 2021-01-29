@@ -50,7 +50,7 @@
     * [meeting 20.10.2020](content/projects/inverse-terrain-simulation/meeting-20.10.20.md)
   * [glossary](content/projects/glossary.md)
   * [gässli](content/projects/gaessli.md)
-  * [pfeedback](content/projects/pfeedback.md)
+  * [Pfeedback](content/projects/pfeedback.md)
   * [lightning atm](content/projects/lightning-atm.md)
   * [vps](content/projects/server_base.md)
   * [paused projects](content/projects/paused-projects/README.md)
