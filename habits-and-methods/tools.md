@@ -1,10 +1,10 @@
 # Tools
 
-## calendars
+## Calendars
 
 ### Google Calendar
 
-## task managers
+## Task Managers
 
 ### Sorted^3
 
@@ -20,20 +20,28 @@
 + many integrations  
 -- maybe too much?
 
-## ClickUp
+### ClickUp
 
 seems THE THING
 
-## chats
++ so many features \(much like monday\)  
++ many integrations  
++ neat design  
++ markdown notes  
++ integrated Docs  
+-- bad mobile app  
+-- too much for personal tasks
 
-### rocket chat
+## Chats
+
+### Rocket Chat
 
 + own hosting  
 + channels  
 -- not suitable for small teams?  
 + opensource 
 
-### slack
+### Slack
 
 -- costs, free version enough?  
 + easy to start  
