@@ -32,6 +32,13 @@ seems THE THING
 -- bad mobile app  
 -- too much for personal tasks
 
+### Notion
+
++ great for personal stuff  
++ can write alot  
++ markdown  
+-- not tasks focused
+
 ## Chats
 
 ### Rocket Chat
