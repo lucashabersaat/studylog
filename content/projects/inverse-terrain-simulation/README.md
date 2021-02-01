@@ -182,6 +182,16 @@ To start tensorboard: `tensorboard --logdir [path/to/runs]`
       <td style="text-align:left">7</td>
       <td style="text-align:left">Normlization, Fix Optimization</td>
     </tr>
+    <tr>
+      <td style="text-align:left">26.1.2021</td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">1.2.2021</td>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">Outline First Version</td>
+    </tr>
   </tbody>
 </table>
 
