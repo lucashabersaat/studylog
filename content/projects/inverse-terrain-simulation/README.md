@@ -32,6 +32,20 @@ An issue arose when calling `backward()` the second time. Some tensor's history 
 
 To start tensorboard: `tensorboard --logdir [path/to/runs]`
 
+### uplift issue
+
+1. Try without smoothmax
+2. issue with initial value?
+3. one solution is to use tiny steps
+4. other one is more onvolved:
+   1. test with adding tiny constant to slope in drainage computation
+   2. change equation, by adding constant to A \(nominator/denominator,\)  such that drainage sums up to 100%
+   3. also linearize locally \(find spline and replace f\(x\)^n by spline\(x\)^n
+      1. question: linearize locally AND add constant?
+      2. also need to change gradient?
+
+* slope of 0 is ok
+
 ## time tracking
 
 <table>
