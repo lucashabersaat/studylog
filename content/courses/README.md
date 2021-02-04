@@ -2,6 +2,13 @@
 
 {% file src="../../.gitbook/assets/lucashabersaat\_master\_studyplan.xlsx" caption="Master Study Plan" %}
 
+## References
+
+* [Official Page](https://inf.ethz.ch/de/studium/master/master-cs-2020.html)
+* [Study Guide](https://ethz.ch/content/dam/ethz/special-interest/infk/department/Images%20and%20Content/Studies/Master/CS/Study%20Guide_MSc_CS2020.pdf)
+* [Major Courses](https://ethz.ch/content/dam/ethz/special-interest/infk/department/Images%20and%20Content/Studies/Master/CS/Long-term%20course%20catalog.pdf)
+* [Minor Courses](https://ethz.ch/content/dam/ethz/special-interest/infk/department/Images%20and%20Content/Studies/Master/CS/Minors.pdf)
+
 ## Courses Per Category
 
 | Course | Semester | CTS |
