@@ -13,7 +13,7 @@ description: Course taken in spring 2021 at ETH during Master studies.
 * voluntary exercises
 * 2 lectures per week
 
-Reread the [**verdict** ](../physical-based-simulation.md#verdict)of last course.
+Reread the [**verdict** ](../completed-courses/physical-based-simulation.md#verdict)of last course.
 
 ## time estimation
 

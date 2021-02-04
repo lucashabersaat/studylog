@@ -15,7 +15,7 @@ description: Course taken in spring 2021 at ETH during Master studies.
 
 
 
-Reread the [**verdict** ](../physical-based-simulation.md#verdict)of last course.s
+Reread the [**verdict** ](../completed-courses/physical-based-simulation.md#verdict)of last course.s
 
 ## time estimation
 

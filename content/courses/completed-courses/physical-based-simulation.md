@@ -6,7 +6,7 @@ description: Course taken in autumn 2020 at ETH during Master studies.
 
 ## Overview
 
-As a 5 credit course, it was a rather small course, yet I loved it. It consisted of [lectures](physical-based-simulation.md#lecture-topics), [exercises ](physical-based-simulation.md#exercises)and a very cool [project](physical-based-simulation.md#project). I have attented it, while I was working part time for Puzzle and did the Semester Thesis continuing the [Inverse Terrain Simulation](../projects/inverse-terrain-simulation/) project.
+As a 5 credit course, it was a rather small course, yet I loved it. It consisted of [lectures](physical-based-simulation.md#lecture-topics), [exercises ](physical-based-simulation.md#exercises)and a very cool [project](physical-based-simulation.md#project). I have attented it, while I was working part time for Puzzle and did the Semester Thesis continuing the [Inverse Terrain Simulation](../../projects/inverse-terrain-simulation/) project.
 
 ### Material
 
@@ -54,7 +54,7 @@ Consisted of four programming exercises. Very interesting and provided basics fo
 
 ## Project
 
-All details can be found in the [**N-Body Gravitational Simulation**](../projects/finished-projects/solar-system-simulation.md) project entry.
+All details can be found in the [**N-Body Gravitational Simulation**](../../projects/finished-projects/solar-system-simulation.md) project entry.
 
 Together with Tamara and Tatiana, we first wanted to simulate a solar system, a rigid body system, with gravitational forces and then add fracture to it, to simulate planets that crash into each other. However, it turned out this is much too ambitious. After the milestone presentation and the feedback of the assistans, we changed to a N-Body Gravitational Simulation with the goal to simulate as many particles as possible to simulate the motion within a galaxy. We managed to feasibly simulate **100k particles**. 
 

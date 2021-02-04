@@ -15,7 +15,7 @@
 
 ## Own Experience
 
-* [Physical based Simulation Verdict](../content/courses/physical-based-simulation.md#verdict)
+* [Physical based Simulation Verdict](../content/courses/completed-courses/physical-based-simulation.md#verdict)
 
 ## **R**eferences
 

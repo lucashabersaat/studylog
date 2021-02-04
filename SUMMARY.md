@@ -60,11 +60,11 @@
     * [Lightning ATM](content/projects/finished-projects/lightning-atm.md)
     * [Pfeedback](content/projects/finished-projects/pfeedback.md)
 * [Courses](content/courses/README.md)
-  * [Physical-Based Simulations in Computer Graphics](content/courses/physical-based-simulation.md)
   * [Upcoming Courses](content/courses/upcoming-courses/README.md)
     * [Computational Intelligence Lab](content/courses/upcoming-courses/computational-intelligence-lab.md)
     * [Visualization](content/courses/upcoming-courses/visualization.md)
-  * [Completed Courses](content/courses/completed-courses.md)
+  * [Completed Courses](content/courses/completed-courses/README.md)
+    * [Physical-Based Simulations in Computer Graphics](content/courses/completed-courses/physical-based-simulation.md)
 
 ## Habits & Methods
 
