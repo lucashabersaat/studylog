@@ -63,7 +63,7 @@
   * [Upcoming Courses](content/courses/upcoming-courses/README.md)
     * [Computational Intelligence Lab](content/courses/upcoming-courses/computational-intelligence-lab.md)
     * [Visualization](content/courses/upcoming-courses/visualization.md)
-  * [Completed Courses](content/courses/completed-courses/README.md)
+  * [Completed Courses]()
     * [Physical-Based Simulations in Computer Graphics](content/courses/completed-courses/physical-based-simulation.md)
 
 ## Habits & Methods

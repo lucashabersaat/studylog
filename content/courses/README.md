@@ -37,7 +37,7 @@
 |   |   |   |
 | **GESS** |   |   |
 | Heureka IV | - | 2 |
-| ??? | HS21/FS22 | 2 |
+| GESS Course | HS21/FS22 | 2 |
 |   |   | **4** |
 |   |   |   |
 | **Seminar** |   |   |
