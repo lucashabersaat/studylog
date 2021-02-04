@@ -30,7 +30,7 @@ seems THE THING
 + markdown notes  
 + integrated Docs  
 -- bad mobile app  
--- too much for personal tasks
+-- too much/not suitabled for personal tasks
 
 ### Notion
 

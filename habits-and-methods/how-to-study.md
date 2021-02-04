@@ -13,7 +13,13 @@
   * go through immediately after taking them
 * Teaching others
 
+## Own Experience
+
+* [Physical based Simulation Verdict](../content/courses/physical-based-simulation.md#verdict)
+
 ## **R**eferences
 
 * [Marty Lobdell](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
+
+
 

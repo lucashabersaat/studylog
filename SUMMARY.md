@@ -61,8 +61,10 @@
     * [Pfeedback](content/projects/finished-projects/pfeedback.md)
 * [Courses](content/courses/README.md)
   * [Physical-Based Simulations in Computer Graphics](content/courses/physical-based-simulation.md)
-  * [computational intelligence lab](content/courses/computational-intelligence-lab.md)
-  * [visualization](content/courses/visualization.md)
+  * [Upcoming Courses](content/courses/upcoming-courses/README.md)
+    * [Computational Intelligence Lab](content/courses/upcoming-courses/computational-intelligence-lab.md)
+    * [Visualization](content/courses/upcoming-courses/visualization.md)
+  * [Completed Courses](content/courses/completed-courses.md)
 
 ## Habits & Methods
 
