@@ -1,2 +1,45 @@
 # Courses
 
+{% file src="../../.gitbook/assets/lucashabersaat\_master\_studyplan.xlsx" caption="Master Study Plan" %}
+
+| Course | Semester | CTS |
+| :--- | :---: | :---: |
+| **Major Core** |   |   |
+| Computer Graphics | - | 7 |
+| Shape Modeling & Geometry Processing | FS22 | 8 |
+| Computer Vision | HS21 | 8 |
+|   |  **** | **23** |
+|   |   |   |
+| **Major Electives** |   |   |
+| Physical Simulation | HS20 | 5 |
+| Visualization | FS21 | 5 |
+| Game Programming Lab | FS22 | 10 |
+|   |   | **20** |
+|   |   |   |
+| **Minor** |   |   |
+| Big Data | HS21 | 10 |
+| Advanced Machine Learning | - | 8 |
+|   |   | **18** |
+|   |   |   |
+| **Intercourse** |   |   |
+| Computational Intelligence Lab | FS21 | 8 |
+| Algorithm Lab | HS21 | 8 |
+|   |   | **16** |
+|   |   |   |
+| **GESS** |   |   |
+| Heureka IV | - | 2 |
+| ??? | HS21/FS22 | 2 |
+|   |   | **4** |
+|   |   |   |
+| **Seminar** |   |   |
+| Advanced Topics in Computer Graphics | FS22 | **2** |
+|   |   |   |
+| **Practical Work** |   |   |
+| Gradient based Optimization for Inverse Terrain | HS20 | **8** |
+|   |   |   |
+| **Master Thesis** | HS22 | **30** |
+|   |   |  **** |
+|   | **Total** | **121** |
+
+
+
