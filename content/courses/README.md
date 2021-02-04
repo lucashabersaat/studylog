@@ -2,6 +2,8 @@
 
 {% file src="../../.gitbook/assets/lucashabersaat\_master\_studyplan.xlsx" caption="Master Study Plan" %}
 
+## Courses Per Category
+
 | Course | Semester | CTS |
 | :--- | :---: | :---: |
 | **Major Core** |   |   |
@@ -41,5 +43,26 @@
 |   |   |  **** |
 |   | **Total** | **121** |
 
+## Courses Per Semester
 
+| FS21 | CTS |
+| :--- | ---: |
+| Visualization | 5 |
+| Computational Intelligence Lab | 8 |
+|   | **13** |
+
+| HS21 | CTS |
+| :--- | ---: |
+| Computer Vision | 8 |
+| Big Data | 10 |
+| Algorithm Lab | 8 |
+|   | **26** |
+
+| FS22 | CTS |
+| :--- | ---: |
+| Shape Modeling & Geometry Processing | 8 |
+| Game Programming Lab | 10 |
+| Advanced Topics in Computer Graphics | 2 |
+| GESS Coursew | 2 |
+|   | **23** |
 
