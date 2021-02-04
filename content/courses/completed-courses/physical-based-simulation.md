@@ -78,7 +78,7 @@ Together with Tamara and Tatiana, we first wanted to simulate a solar system, a 
 
 ## Log
 
-### 29.09.2020
+### 29.9.2020
 
 See if I keep this log. It seems taking notes while/after the lecture the way I want, is not realistic. The tempo is to fast, atleast for the last lecture. Going to just mark needed space, maybe do notes for some lecture, but generally postpone this to the learning phase.
 
