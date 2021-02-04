@@ -14,7 +14,7 @@
 | Course | Semester | CTS |
 | :--- | :---: | :---: |
 | **Major Core** |   |   |
-| Computer Graphics | - | 7 |
+| Computer Graphics | ✔ | 7 |
 | Shape Modeling & Geometry Processing | FS22 | 8 |
 | Computer Vision | HS21 | 8 |
 |   |  **** | **23** |
@@ -27,7 +27,7 @@
 |   |   |   |
 | **Minor** |   |   |
 | Big Data | HS21 | 10 |
-| Advanced Machine Learning | - | 8 |
+| Advanced Machine Learning | ✔ | 8 |
 |   |   | **18** |
 |   |   |   |
 | **Intercourse** |   |   |
@@ -36,7 +36,7 @@
 |   |   | **16** |
 |   |   |   |
 | **GESS** |   |   |
-| Heureka IV | - | 2 |
+| Heureka IV | ✔ | 2 |
 | GESS Course | HS21/FS22 | 2 |
 |   |   | **4** |
 |   |   |   |
