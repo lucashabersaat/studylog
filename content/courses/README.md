@@ -70,6 +70,6 @@
 | Shape Modeling & Geometry Processing | 8 |
 | Game Programming Lab | 10 |
 | Advanced Topics in Computer Graphics | 2 |
-| GESS Coursew | 2 |
+| GESS Course | 2 |
 |   | **23** |
 
