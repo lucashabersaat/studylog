@@ -1,6 +1,8 @@
 # How to Study
 
-## Keypoints
+## Marty Lobdell Keypoints
+
+Some essential methods and techniques from [Marty Lobdell's class](https://www.youtube.com/watch?v=IlU-zDU6aQ0).
 
 * Take regular breaks, after 30minutes
   * Pomodoro
@@ -16,10 +18,6 @@
 ## Own Experience
 
 * [Physical based Simulation Verdict](../content/courses/completed-courses/physical-based-simulation.md#verdict)
-
-## **R**eferences
-
-* [Marty Lobdell](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
 
 
 
