@@ -1,5 +1,7 @@
 # Tools
 
+## copied to notion
+
 ## Calendars
 
 ### Google Calendar

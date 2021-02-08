@@ -68,7 +68,5 @@
 
 ## Habits & Methods
 
-* [How to Study](habits-and-methods/how-to-study.md)
-* [Dump](habits-and-methods/habits.md)
 * [Tools](habits-and-methods/tools.md)
 
