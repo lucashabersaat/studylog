@@ -152,7 +152,7 @@ Overview of what i have learned so far and where.
 
 * [gässli](content/projects/gaessli.md)
 * wotschit
-* [inverse terrain simulation](content/projects/inverse-terrain-simulation/)
+* [inverse terrain simulation](content/projects/inverse-terrain-simulation.md)
 * [cryptopus](content/projects/finished-projects/cryptopus.md)
 * [pfeedback](content/projects/finished-projects/pfeedback.md) 
 * [vps](content/projects/server_base.md)

@@ -2,7 +2,7 @@
 description: Open Source Password Manager developed by Puzzle ITC
 ---
 
-# Cryptopus
+# Cryptopus \(in Notion\)
 
 `web-app` `ruby` `emberjs` `opensource`
 

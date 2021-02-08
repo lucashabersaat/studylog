@@ -2,7 +2,7 @@
 description: The project for the course phsyically based simulation in computer graphics
 ---
 
-# N-Body Gravitational Simulation
+# N-Body Gravitational Simulation \(in Notion\)
 
 `studies` `c++` `computer graphics` `simulation`
 

@@ -2,7 +2,7 @@
 description: The web tools for the event Gässli Film Festival in Basel.
 ---
 
-# gässli
+# gässli \(in Notion\)
 
 `web-app` `php`
 

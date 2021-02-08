@@ -1,10 +1,10 @@
-# projects
+# Projects \(all in Notion\)
 
 ## table of content
 
 * [gässli](gaessli.md)
 * wotschit
-* [inverse terrain simulation](inverse-terrain-simulation/)
+* [inverse terrain simulation](inverse-terrain-simulation.md)
 * [cryptopus](finished-projects/cryptopus.md)
 * [pfeedback](finished-projects/pfeedback.md)
 * [server\_base](server_base.md)

@@ -2,7 +2,7 @@
 description: 'A little idea of a ''perfect'' todo application, or atleast one perfect for me.'
 ---
 
-# questhub
+# Questhub \(in Notion\)
 
  [django](../../technologies/web-frameworks/django.md)
 

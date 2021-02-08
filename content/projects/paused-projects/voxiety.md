@@ -4,7 +4,7 @@ description: >-
   data driven and changeable by the player.
 ---
 
-# voxiety
+# voxiety \(in Notion\)
 
 `python prototype` `ursina game engine`
 

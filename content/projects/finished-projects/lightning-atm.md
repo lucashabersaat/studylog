@@ -1,4 +1,4 @@
-# Lightning ATM
+# Lightning ATM \(in Notion\)
 
 ## Overview
 

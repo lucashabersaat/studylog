@@ -2,9 +2,9 @@
 description: Course taken in spring 2021 at ETH during Master studies.
 ---
 
-# computational intelligence lab
+# Computational Intelligence Lab
 
-## overview
+## Overview
 
 * 8 credits
 * exam & project
@@ -13,11 +13,13 @@ description: Course taken in spring 2021 at ETH during Master studies.
 * voluntary exercises
 * 2 lectures per week
 
-## time estimation
+Reread the [**verdict** ](physical-based-simulation.md#verdict)of last course.
+
+## Time Estimation
 
 | What | Time | Time Period |
 | :--- | :--- | :--- |
 | attending Lectures |  | February - May |
 | Project |  | February - June/July? |
-| studying |  | June - August |
+| Studying |  | June - August |
 
