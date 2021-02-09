@@ -62,7 +62,3 @@
   * [Computational Intelligence Lab](content/courses/computational-intelligence-lab.md)
   * [Physical-Based Simulations \(in Notion\)](content/courses/physical-based-simulation.md)
 
-## Habits & Methods
-
-* [Tools](habits-and-methods/tools.md)
-
