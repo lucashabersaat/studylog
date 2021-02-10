@@ -57,8 +57,4 @@
     * [Cryptopus \(in Notion\)](content/projects/finished-projects/cryptopus.md)
     * [Lightning ATM \(in Notion\)](content/projects/finished-projects/lightning-atm.md)
     * [Pfeedback \(in Notion\)](content/projects/finished-projects/pfeedback.md)
-* [Courses](content/courses/README.md)
-  * [Visualization](content/courses/visualization.md)
-  * [Computational Intelligence Lab](content/courses/computational-intelligence-lab.md)
-  * [Physical-Based Simulations \(in Notion\)](content/courses/physical-based-simulation.md)
 
