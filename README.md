@@ -168,3 +168,5 @@ Beginning from 4.8.2020, log of new learned stuff.
 * 2. October 2020: integrated studylog into gitbook
 * 18. December 2020: Though I like gitbook, I want this data somehow more in my control. On my own server in my cellar is the desired state. For now, I need to be happy like this, or find another tool.
 
+
+
